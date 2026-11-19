@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EPUB3 Reader</title>
+  <link rel="stylesheet" href="style.css?v=5" />
+</head>
+<body>
+  <div id="app">
+    <main id="stage" aria-label="Book viewport">
+      <div id="spread-container"></div>
+    </main>
+
+    <!-- Edge navigation buttons -->
+    <button id="btn-prev" class="nav-arrow nav-prev" type="button" aria-label="Previous page" title="Previous (←)">
+      <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </button>
+    <button id="btn-next" class="nav-arrow nav-next" type="button" aria-label="Next page" title="Next (→)">
+      <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </button>
+
+    <!-- Minimal floating bottom HUD -->
+    <div id="hud" role="toolbar" aria-label="Reader controls">
+      <a href="index.html" class="hud-btn hud-link" title="Kembali ke Daftar Buku" aria-label="Back to library">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+        <span>Library</span>
+      </a>
+
+      <div class="hud-divider"></div>
+
+      <div id="audio-controls" class="hud-group">
+        <button id="btn-play" class="hud-btn hud-btn-primary" type="button" title="Play / Pause Read-Along (Space)" aria-label="Play or pause read-along">
+          <svg id="icon-play" viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+            <polygon points="6 4 20 12 6 20 6 4"></polygon>
+          </svg>
+          <svg id="icon-pause" class="hidden" viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+            <rect x="6" y="4" width="4" height="16" rx="1"></rect>
+            <rect x="14" y="4" width="4" height="16" rx="1"></rect>
+          </svg>
+        </button>
+        <span id="audio-time" class="hud-time">0:00</span>
+      </div>
+
+      <div id="audio-divider" class="hud-divider"></div>
+
+      <div class="hud-group hud-nav-group">
+        <input id="page-slider" type="range" min="0" max="0" value="0" aria-label="Page slider" />
+        <span id="page-label" class="hud-page-label">1 / 1</span>
+      </div>
+
+      <div class="hud-divider"></div>
+
+      <div class="hud-group hud-segmented" role="group" aria-label="Page layout">
+        <button id="btn-mode-single" class="hud-seg-btn" type="button" title="1 Page (1)">1 Page</button>
+        <button id="btn-mode-spread" class="hud-seg-btn active" type="button" title="2 Page Spread (2)">2 Page</button>
+      </div>
+
+      <button id="btn-cover-toggle" class="hud-btn hud-toggle active" type="button" title="Cover terpisah dari spread (C)" aria-pressed="true">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="4" y="4" width="7" height="16" rx="1"></rect>
+          <rect x="13" y="4" width="7" height="16" rx="1" stroke-dasharray="2 2"></rect>
+        </svg>
+        <span>Cover Terpisah</span>
+      </button>
+
+      <div class="hud-divider"></div>
+
+      <button id="btn-fullscreen" class="hud-btn" type="button" title="Fullscreen (F)" aria-label="Toggle fullscreen">
+        <svg id="icon-fs-enter" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="15 3 21 3 21 9"></polyline>
+          <polyline points="9 21 3 21 3 15"></polyline>
+          <line x1="21" y1="3" x2="14" y2="10"></line>
+          <line x1="3" y1="21" x2="10" y2="14"></line>
+        </svg>
+        <svg id="icon-fs-exit" class="hidden" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="4 14 10 14 10 20"></polyline>
+          <polyline points="20 10 14 10 14 4"></polyline>
+          <line x1="14" y1="10" x2="21" y2="3"></line>
+          <line x1="3" y1="21" x2="10" y2="14"></line>
+        </svg>
+      </button>
+    </div>
+
+    <div id="loading-overlay" class="loading-overlay">
+      <div class="spinner"></div>
+      <span>Memuat buku…</span>
+    </div>
+  </div>
+
+  <script src="app.js?v=5"></script>
+</body>
+</html>

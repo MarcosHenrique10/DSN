@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Disney EPUB3 Library</title>
+  <link rel="stylesheet" href="library.css?v=1" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <h1>Disney EPUB3</h1>
+        <span id="book-count" class="count-pill">Memuat…</span>
+      </div>
+      <div class="controls">
+        <div class="search-wrap">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input id="search-input" type="search" placeholder="Cari judul buku…" autocomplete="off" />
+        </div>
+        <select id="series-select" aria-label="Filter seri">
+          <option value="">Semua Seri</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <p id="empty-state" class="empty-state hidden">Tidak ada buku yang cocok.</p>
+  </main>
+
+  <script src="library.js?v=1"></script>
+</body>
+</html>

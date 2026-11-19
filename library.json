@@ -1,0 +1,3503 @@
+[
+  {
+    "id": "101-dalmatians",
+    "title": "101 Dalmatians",
+    "series": "101 Dalmatians",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/101-dalmatians.jpg",
+    "remoteBase": "/DSN-books-01/books/101-dalmatians/"
+  },
+  {
+    "id": "101-dalmatians-puppy-trouble",
+    "title": "101 Dalmatians - Puppy Trouble",
+    "series": "101 Dalmatians",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/101-dalmatians-puppy-trouble.jpg",
+    "remoteBase": "/DSN-books-01/books/101-dalmatians-puppy-trouble/"
+  },
+  {
+    "id": "101-dalmatians-thunderbolt-patch",
+    "title": "101 Dalmatians - Thunderbolt Patch",
+    "series": "101 Dalmatians",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/101-dalmatians-thunderbolt-patch.jpg",
+    "remoteBase": "/DSN-books-01/books/101-dalmatians-thunderbolt-patch/"
+  },
+  {
+    "id": "a-boy-a-bear-and-a-balloon",
+    "title": "A Boy, A Bear and A Balloon",
+    "series": "A Boy, A Bear and A Balloon",
+    "pages": 44,
+    "hasAudio": true,
+    "cover": "covers/a-boy-a-bear-and-a-balloon.jpg",
+    "remoteBase": "/DSN-books-01/books/a-boy-a-bear-and-a-balloon/"
+  },
+  {
+    "id": "aladdin",
+    "title": "Aladdin",
+    "series": "Aladdin",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/aladdin.jpg",
+    "remoteBase": "/DSN-books-01/books/aladdin/"
+  },
+  {
+    "id": "aladdin-abu-s-adventure",
+    "title": "Aladdin - Abu's Adventure",
+    "series": "Aladdin",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/aladdin-abu-s-adventure.jpg",
+    "remoteBase": "/DSN-books-01/books/aladdin-abu-s-adventure/"
+  },
+  {
+    "id": "ariel-baby-beau",
+    "title": "Ariel - Baby Beau",
+    "series": "Ariel",
+    "pages": 40,
+    "hasAudio": true,
+    "cover": "covers/ariel-baby-beau.jpg",
+    "remoteBase": "/DSN-books-01/books/ariel-baby-beau/"
+  },
+  {
+    "id": "ariel-big-baby",
+    "title": "Ariel - Big Baby",
+    "series": "Ariel",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/ariel-big-baby.jpg",
+    "remoteBase": "/DSN-books-01/books/ariel-big-baby/"
+  },
+  {
+    "id": "ariel-dolphin-adventure",
+    "title": "Ariel - Dolphin Adventure",
+    "series": "Ariel",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/ariel-dolphin-adventure.jpg",
+    "remoteBase": "/DSN-books-01/books/ariel-dolphin-adventure/"
+  },
+  {
+    "id": "ariel-flounder-loves-ariel",
+    "title": "Ariel - Flounder Loves Ariel",
+    "series": "Ariel",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/ariel-flounder-loves-ariel.jpg",
+    "remoteBase": "/DSN-books-01/books/ariel-flounder-loves-ariel/"
+  },
+  {
+    "id": "ariel-purple-pearl",
+    "title": "Ariel - Purple Pearl",
+    "series": "Ariel",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/ariel-purple-pearl.jpg",
+    "remoteBase": "/DSN-books-01/books/ariel-purple-pearl/"
+  },
+  {
+    "id": "aurora-buttercup-the-brave",
+    "title": "Aurora - Buttercup the Brave",
+    "series": "Aurora",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/aurora-buttercup-the-brave.jpg",
+    "remoteBase": "/DSN-books-01/books/aurora-buttercup-the-brave/"
+  },
+  {
+    "id": "aurora-helpful-dragon",
+    "title": "Aurora - Helpful Dragon",
+    "series": "Aurora",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/aurora-helpful-dragon.jpg",
+    "remoteBase": "/DSN-books-01/books/aurora-helpful-dragon/"
+  },
+  {
+    "id": "aurora-royal-wedding",
+    "title": "Aurora - Royal Wedding",
+    "series": "Aurora",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/aurora-royal-wedding.jpg",
+    "remoteBase": "/DSN-books-01/books/aurora-royal-wedding/"
+  },
+  {
+    "id": "ballad-of-nessie",
+    "title": "Ballad of Nessie",
+    "series": "Ballad of Nessie",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/ballad-of-nessie.jpg",
+    "remoteBase": "/DSN-books-01/books/ballad-of-nessie/"
+  },
+  {
+    "id": "bambi",
+    "title": "Bambi",
+    "series": "Bambi",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/bambi.jpg",
+    "remoteBase": "/DSN-books-01/books/bambi/"
+  },
+  {
+    "id": "beauty-and-the-beast",
+    "title": "Beauty and the Beast",
+    "series": "Beauty and the Beast",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/beauty-and-the-beast.jpg",
+    "remoteBase": "/DSN-books-01/books/beauty-and-the-beast/"
+  },
+  {
+    "id": "beauty-and-the-beast-v2",
+    "title": "Beauty and the Beast v2",
+    "series": "Beauty and the Beast v2",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/beauty-and-the-beast-v2.jpg",
+    "remoteBase": "/DSN-books-01/books/beauty-and-the-beast-v2/"
+  },
+  {
+    "id": "belle-a-pony-for-a-princess",
+    "title": "Belle - A Pony for A Princess",
+    "series": "Belle",
+    "pages": 34,
+    "hasAudio": false,
+    "cover": "covers/belle-a-pony-for-a-princess.jpg",
+    "remoteBase": "/DSN-books-01/books/belle-a-pony-for-a-princess/"
+  },
+  {
+    "id": "belle-castle-puppy",
+    "title": "Belle - Castle Puppy",
+    "series": "Belle",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/belle-castle-puppy.jpg",
+    "remoteBase": "/DSN-books-01/books/belle-castle-puppy/"
+  },
+  {
+    "id": "belle-friend-for-phillipe",
+    "title": "Belle - Friend for Phillipe",
+    "series": "Belle",
+    "pages": 40,
+    "hasAudio": true,
+    "cover": "covers/belle-friend-for-phillipe.jpg",
+    "remoteBase": "/DSN-books-01/books/belle-friend-for-phillipe/"
+  },
+  {
+    "id": "belle-friendship-invention",
+    "title": "Belle - Friendship Invention",
+    "series": "Belle",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/belle-friendship-invention.jpg",
+    "remoteBase": "/DSN-books-01/books/belle-friendship-invention/"
+  },
+  {
+    "id": "belle-perfect-pearl",
+    "title": "Belle - Perfect Pearl",
+    "series": "Belle",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/belle-perfect-pearl.jpg",
+    "remoteBase": "/DSN-books-01/books/belle-perfect-pearl/"
+  },
+  {
+    "id": "belle-royal-wedding",
+    "title": "Belle - Royal Wedding",
+    "series": "Belle",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/belle-royal-wedding.jpg",
+    "remoteBase": "/DSN-books-01/books/belle-royal-wedding/"
+  },
+  {
+    "id": "big-hero-6",
+    "title": "Big Hero 6",
+    "series": "Big Hero",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/big-hero-6.jpg",
+    "remoteBase": "/DSN-books-01/books/big-hero-6/"
+  },
+  {
+    "id": "big-hero-6-baymax-s-journey",
+    "title": "Big Hero 6 - Baymax's Journey",
+    "series": "Big Hero 6",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/big-hero-6-baymax-s-journey.jpg",
+    "remoteBase": "/DSN-books-02/books/big-hero-6-baymax-s-journey/"
+  },
+  {
+    "id": "big-hero-6-fight-to-the-finish",
+    "title": "Big Hero 6 - Fight to the Finish",
+    "series": "Big Hero 6",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/big-hero-6-fight-to-the-finish.jpg",
+    "remoteBase": "/DSN-books-02/books/big-hero-6-fight-to-the-finish/"
+  },
+  {
+    "id": "big-hero-6-i-am-baymax",
+    "title": "Big Hero 6 - I Am Baymax",
+    "series": "Big Hero 6",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/big-hero-6-i-am-baymax.jpg",
+    "remoteBase": "/DSN-books-02/books/big-hero-6-i-am-baymax/"
+  },
+  {
+    "id": "blue-umbrella",
+    "title": "Blue Umbrella",
+    "series": "Blue Umbrella",
+    "pages": 66,
+    "hasAudio": true,
+    "cover": "covers/blue-umbrella.jpg",
+    "remoteBase": "/DSN-books-02/books/blue-umbrella/"
+  },
+  {
+    "id": "bnb-enchantment",
+    "title": "BnB - Enchantment",
+    "series": "BnB",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/bnb-enchantment.jpg",
+    "remoteBase": "/DSN-books-02/books/bnb-enchantment/"
+  },
+  {
+    "id": "bnb-something-more",
+    "title": "BnB - SOmething More",
+    "series": "BnB",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/bnb-something-more.jpg",
+    "remoteBase": "/DSN-books-02/books/bnb-something-more/"
+  },
+  {
+    "id": "brave",
+    "title": "Brave",
+    "series": "Brave",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/brave.jpg",
+    "remoteBase": "/DSN-books-02/books/brave/"
+  },
+  {
+    "id": "brave-a-friend-for-merida",
+    "title": "Brave - A Friend for Merida",
+    "series": "Brave",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/brave-a-friend-for-merida.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-a-friend-for-merida/"
+  },
+  {
+    "id": "brave-a-mother-s-love",
+    "title": "Brave - A Mother's Love",
+    "series": "Brave",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/brave-a-mother-s-love.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-a-mother-s-love/"
+  },
+  {
+    "id": "brave-big-bear-little-bear",
+    "title": "Brave - Big Bear Little Bear",
+    "series": "Brave",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/brave-big-bear-little-bear.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-big-bear-little-bear/"
+  },
+  {
+    "id": "brave-merida-s-wild-ride",
+    "title": "Brave - Merida's Wild Ride",
+    "series": "Brave",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/brave-merida-s-wild-ride.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-merida-s-wild-ride/"
+  },
+  {
+    "id": "brave-missing-gem",
+    "title": "Brave - Missing Gem",
+    "series": "Brave",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/brave-missing-gem.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-missing-gem/"
+  },
+  {
+    "id": "brave-oh-brother",
+    "title": "Brave - Oh, Brother",
+    "series": "Brave",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/brave-oh-brother.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-oh-brother/"
+  },
+  {
+    "id": "brave-one-perfect-day",
+    "title": "Brave - One Perfect Day",
+    "series": "Brave",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/brave-one-perfect-day.jpg",
+    "remoteBase": "/DSN-books-02/books/brave-one-perfect-day/"
+  },
+  {
+    "id": "cars",
+    "title": "Cars",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars.jpg",
+    "remoteBase": "/DSN-books-02/books/cars/"
+  },
+  {
+    "id": "cars-holley-saves-the-day",
+    "title": "Cars  - Holley Saves the Day",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-holley-saves-the-day.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-holley-saves-the-day/"
+  },
+  {
+    "id": "cars-driving-buddies",
+    "title": "Cars - Driving Buddies",
+    "series": "Cars",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-driving-buddies.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-driving-buddies/"
+  },
+  {
+    "id": "cars-el-materdor",
+    "title": "Cars - El Materdor",
+    "series": "Cars",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/cars-el-materdor.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-el-materdor/"
+  },
+  {
+    "id": "cars-francesco-s-rematch",
+    "title": "Cars - Francesco's Rematch",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-francesco-s-rematch.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-francesco-s-rematch/"
+  },
+  {
+    "id": "cars-ghost-light",
+    "title": "Cars - Ghost Light",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-ghost-light.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-ghost-light/"
+  },
+  {
+    "id": "cars-heavy-metal-mater",
+    "title": "Cars - Heavy Metal Mater",
+    "series": "Cars",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/cars-heavy-metal-mater.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-heavy-metal-mater/"
+  },
+  {
+    "id": "cars-lead-the-way",
+    "title": "Cars - Lead the Way",
+    "series": "Cars",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/cars-lead-the-way.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-lead-the-way/"
+  },
+  {
+    "id": "cars-look-out-for-mater",
+    "title": "Cars - Look Out for Mater",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-look-out-for-mater.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-look-out-for-mater/"
+  },
+  {
+    "id": "cars-mater-easter-bunny",
+    "title": "Cars - Mater Easter Bunny",
+    "series": "Cars",
+    "pages": 46,
+    "hasAudio": true,
+    "cover": "covers/cars-mater-easter-bunny.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-mater-easter-bunny/"
+  },
+  {
+    "id": "cars-mater-in-paris",
+    "title": "Cars - Mater in Paris",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-mater-in-paris.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-mater-in-paris/"
+  },
+  {
+    "id": "cars-mater-the-greater",
+    "title": "Cars - Mater the Greater",
+    "series": "Cars",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/cars-mater-the-greater.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-mater-the-greater/"
+  },
+  {
+    "id": "cars-mater-s-junkyard-jamboree",
+    "title": "Cars - Mater's Junkyard Jamboree",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-mater-s-junkyard-jamboree.jpg",
+    "remoteBase": "/DSN-books-02/books/cars-mater-s-junkyard-jamboree/"
+  },
+  {
+    "id": "cars-monster-truck-mater",
+    "title": "Cars - Monster Truck Mater",
+    "series": "Cars",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/cars-monster-truck-mater.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-monster-truck-mater/"
+  },
+  {
+    "id": "cars-neon-racers",
+    "title": "Cars - Neon Racers",
+    "series": "Cars",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/cars-neon-racers.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-neon-racers/"
+  },
+  {
+    "id": "cars-private-eye",
+    "title": "Cars - Private Eye",
+    "series": "Cars",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/cars-private-eye.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-private-eye/"
+  },
+  {
+    "id": "cars-protect-serve",
+    "title": "Cars - Protect Serve",
+    "series": "Cars",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/cars-protect-serve.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-protect-serve/"
+  },
+  {
+    "id": "cars-race-around-the-world",
+    "title": "Cars - Race Around the World",
+    "series": "Cars",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-race-around-the-world.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-race-around-the-world/"
+  },
+  {
+    "id": "cars-racing-days",
+    "title": "Cars - Racing Days",
+    "series": "Cars",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/cars-racing-days.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-racing-days/"
+  },
+  {
+    "id": "cars-racing-for-good",
+    "title": "Cars - Racing for Good",
+    "series": "Cars",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-racing-for-good.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-racing-for-good/"
+  },
+  {
+    "id": "cars-radiator-springs-500",
+    "title": "Cars - Radiator Springs 500",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-radiator-springs-500.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-radiator-springs-500/"
+  },
+  {
+    "id": "cars-radiator-springs-road-trip",
+    "title": "Cars - Radiator Springs Road Trip",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-radiator-springs-road-trip.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-radiator-springs-road-trip/"
+  },
+  {
+    "id": "cars-rally-to-finish",
+    "title": "Cars - Rally to Finish",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-rally-to-finish.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-rally-to-finish/"
+  },
+  {
+    "id": "cars-rescue-squad-mater",
+    "title": "Cars - Rescue Squad Mater",
+    "series": "Cars",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/cars-rescue-squad-mater.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-rescue-squad-mater/"
+  },
+  {
+    "id": "cars-roadwork",
+    "title": "Cars - Roadwork",
+    "series": "Cars",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-roadwork.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-roadwork/"
+  },
+  {
+    "id": "cars-taken-by-storm",
+    "title": "Cars - Taken by Storm",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-taken-by-storm.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-taken-by-storm/"
+  },
+  {
+    "id": "cars-thunder-the-lightning",
+    "title": "Cars - Thunder the Lightning",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-thunder-the-lightning.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-thunder-the-lightning/"
+  },
+  {
+    "id": "cars-tokyo-mater",
+    "title": "Cars - Tokyo Mater",
+    "series": "Cars",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/cars-tokyo-mater.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-tokyo-mater/"
+  },
+  {
+    "id": "cars-tractor-trouble",
+    "title": "Cars - Tractor Trouble",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-tractor-trouble.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-tractor-trouble/"
+  },
+  {
+    "id": "cars-ufm",
+    "title": "Cars - UFM",
+    "series": "Cars",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/cars-ufm.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-ufm/"
+  },
+  {
+    "id": "cars-2",
+    "title": "Cars 2",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-2.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-2/"
+  },
+  {
+    "id": "cars-2-racing-rivals",
+    "title": "Cars 2 - Racing Rivals",
+    "series": "Cars 2",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-2-racing-rivals.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-2-racing-rivals/"
+  },
+  {
+    "id": "cars-2-secret-agent-mater",
+    "title": "Cars 2 - Secret Agent Mater",
+    "series": "Cars 2",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-2-secret-agent-mater.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-2-secret-agent-mater/"
+  },
+  {
+    "id": "cars-2-super-spies",
+    "title": "Cars 2 - Super Spies",
+    "series": "Cars 2",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-2-super-spies.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-2-super-spies/"
+  },
+  {
+    "id": "cars-3",
+    "title": "Cars 3",
+    "series": "Cars",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cars-3.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-3/"
+  },
+  {
+    "id": "cars-3-back-on-track",
+    "title": "Cars 3 - Back on Track",
+    "series": "Cars 3",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/cars-3-back-on-track.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-3-back-on-track/"
+  },
+  {
+    "id": "cars-3-driven-to-win",
+    "title": "Cars 3 - Driven to Win",
+    "series": "Cars 3",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/cars-3-driven-to-win.jpg",
+    "remoteBase": "/DSN-books-03/books/cars-3-driven-to-win/"
+  },
+  {
+    "id": "chicken-little-the-sky-is-falling",
+    "title": "Chicken Little - The Sky is Falling",
+    "series": "Chicken Little",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/chicken-little-the-sky-is-falling.jpg",
+    "remoteBase": "/DSN-books-03/books/chicken-little-the-sky-is-falling/"
+  },
+  {
+    "id": "cinderella",
+    "title": "Cinderella",
+    "series": "Cinderella",
+    "pages": 44,
+    "hasAudio": true,
+    "cover": "covers/cinderella.jpg",
+    "remoteBase": "/DSN-books-04/books/cinderella/"
+  },
+  {
+    "id": "cinderella-best-ever-creation",
+    "title": "Cinderella - Best Ever Creation",
+    "series": "Cinderella",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cinderella-best-ever-creation.jpg",
+    "remoteBase": "/DSN-books-04/books/cinderella-best-ever-creation/"
+  },
+  {
+    "id": "cinderella-great-catastrophe",
+    "title": "Cinderella - Great Catastrophe",
+    "series": "Cinderella",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/cinderella-great-catastrophe.jpg",
+    "remoteBase": "/DSN-books-04/books/cinderella-great-catastrophe/"
+  },
+  {
+    "id": "cinderella-gus-loves",
+    "title": "Cinderella - Gus Loves",
+    "series": "Cinderella",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/cinderella-gus-loves.jpg",
+    "remoteBase": "/DSN-books-04/books/cinderella-gus-loves/"
+  },
+  {
+    "id": "cinderella-v1",
+    "title": "Cinderella v1",
+    "series": "Cinderella v1",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/cinderella-v1.jpg",
+    "remoteBase": "/DSN-books-04/books/cinderella-v1/"
+  },
+  {
+    "id": "coco",
+    "title": "Coco",
+    "series": "Coco",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/coco.jpg",
+    "remoteBase": "/DSN-books-04/books/coco/"
+  },
+  {
+    "id": "coco-family-mistery",
+    "title": "Coco - Family Mistery",
+    "series": "Coco",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/coco-family-mistery.jpg",
+    "remoteBase": "/DSN-books-04/books/coco-family-mistery/"
+  },
+  {
+    "id": "disney-princesses-spring",
+    "title": "Disney Princesses - Spring",
+    "series": "Disney Princesses",
+    "pages": 30,
+    "hasAudio": true,
+    "cover": "covers/disney-princesses-spring.jpg",
+    "remoteBase": "/DSN-books-04/books/disney-princesses-spring/"
+  },
+  {
+    "id": "disney-princesses-winter",
+    "title": "Disney Princesses - Winter",
+    "series": "Disney Princesses",
+    "pages": 30,
+    "hasAudio": true,
+    "cover": "covers/disney-princesses-winter.jpg",
+    "remoteBase": "/DSN-books-04/books/disney-princesses-winter/"
+  },
+  {
+    "id": "dn-cheetah",
+    "title": "DN Cheetah",
+    "series": "DN Cheetah",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/dn-cheetah.jpg",
+    "remoteBase": "/DSN-books-04/books/dn-cheetah/"
+  },
+  {
+    "id": "dn-chimpanzee",
+    "title": "DN Chimpanzee",
+    "series": "DN Chimpanzee",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/dn-chimpanzee.jpg",
+    "remoteBase": "/DSN-books-04/books/dn-chimpanzee/"
+  },
+  {
+    "id": "dn-lion",
+    "title": "DN Lion",
+    "series": "DN Lion",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/dn-lion.jpg",
+    "remoteBase": "/DSN-books-04/books/dn-lion/"
+  },
+  {
+    "id": "donald-takes-a-trip",
+    "title": "Donald Takes a Trip",
+    "series": "Donald Takes a Trip",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/donald-takes-a-trip.jpg",
+    "remoteBase": "/DSN-books-04/books/donald-takes-a-trip/"
+  },
+  {
+    "id": "donald-s-wild-bird-chase",
+    "title": "Donald's Wild Bird Chase",
+    "series": "Donald's Wild Bird Chase",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/donald-s-wild-bird-chase.jpg",
+    "remoteBase": "/DSN-books-04/books/donald-s-wild-bird-chase/"
+  },
+  {
+    "id": "dumbo",
+    "title": "Dumbo",
+    "series": "Dumbo",
+    "pages": 40,
+    "hasAudio": true,
+    "cover": "covers/dumbo.jpg",
+    "remoteBase": "/DSN-books-04/books/dumbo/"
+  },
+  {
+    "id": "dv-cruella-de-vil",
+    "title": "DV Cruella de Vil",
+    "series": "DV Cruella de Vil",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/dv-cruella-de-vil.jpg",
+    "remoteBase": "/DSN-books-04/books/dv-cruella-de-vil/"
+  },
+  {
+    "id": "dv-hook",
+    "title": "DV Hook",
+    "series": "DV Hook",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/dv-hook.jpg",
+    "remoteBase": "/DSN-books-04/books/dv-hook/"
+  },
+  {
+    "id": "dv-jafar",
+    "title": "DV Jafar",
+    "series": "DV Jafar",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/dv-jafar.jpg",
+    "remoteBase": "/DSN-books-04/books/dv-jafar/"
+  },
+  {
+    "id": "dv-maleficent",
+    "title": "DV Maleficent",
+    "series": "DV Maleficent",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/dv-maleficent.jpg",
+    "remoteBase": "/DSN-books-04/books/dv-maleficent/"
+  },
+  {
+    "id": "dv-scar",
+    "title": "DV Scar",
+    "series": "DV Scar",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/dv-scar.jpg",
+    "remoteBase": "/DSN-books-04/books/dv-scar/"
+  },
+  {
+    "id": "dv-this-is-cruella-de-vil",
+    "title": "DV This is Cruella de Vil",
+    "series": "DV This is Cruella de Vil",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/dv-this-is-cruella-de-vil.jpg",
+    "remoteBase": "/DSN-books-04/books/dv-this-is-cruella-de-vil/"
+  },
+  {
+    "id": "elena-of-avalor",
+    "title": "Elena of Avalor",
+    "series": "Elena of Avalor",
+    "pages": 46,
+    "hasAudio": true,
+    "cover": "covers/elena-of-avalor.jpg",
+    "remoteBase": "/DSN-books-04/books/elena-of-avalor/"
+  },
+  {
+    "id": "elena-of-avalor-a-day-to-remember",
+    "title": "Elena of Avalor - A Day to Remember",
+    "series": "Elena of Avalor",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/elena-of-avalor-a-day-to-remember.jpg",
+    "remoteBase": "/DSN-books-05/books/elena-of-avalor-a-day-to-remember/"
+  },
+  {
+    "id": "elena-of-avalor-big-adventure",
+    "title": "Elena of Avalor - Big Adventure",
+    "series": "Elena of Avalor",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/elena-of-avalor-big-adventure.jpg",
+    "remoteBase": "/DSN-books-05/books/elena-of-avalor-big-adventure/"
+  },
+  {
+    "id": "elena-of-avalor-feliz-navidad",
+    "title": "Elena of Avalor - Feliz Navidad",
+    "series": "Elena of Avalor",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/elena-of-avalor-feliz-navidad.jpg",
+    "remoteBase": "/DSN-books-05/books/elena-of-avalor-feliz-navidad/"
+  },
+  {
+    "id": "elena-of-avalor-secret-spellbook",
+    "title": "Elena of Avalor - Secret Spellbook",
+    "series": "Elena of Avalor",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/elena-of-avalor-secret-spellbook.jpg",
+    "remoteBase": "/DSN-books-05/books/elena-of-avalor-secret-spellbook/"
+  },
+  {
+    "id": "feast",
+    "title": "Feast",
+    "series": "Feast",
+    "pages": 68,
+    "hasAudio": true,
+    "cover": "covers/feast.jpg",
+    "remoteBase": "/DSN-books-05/books/feast/"
+  },
+  {
+    "id": "finding-dory",
+    "title": "Finding Dory",
+    "series": "Finding Dory",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/finding-dory.jpg",
+    "remoteBase": "/DSN-books-05/books/finding-dory/"
+  },
+  {
+    "id": "finding-dory-dory-s-story",
+    "title": "Finding Dory - Dory's Story",
+    "series": "Finding Dory",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/finding-dory-dory-s-story.jpg",
+    "remoteBase": "/DSN-books-05/books/finding-dory-dory-s-story/"
+  },
+  {
+    "id": "finding-dory-ocean-of-colors",
+    "title": "Finding Dory - Ocean of Colors",
+    "series": "Finding Dory",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/finding-dory-ocean-of-colors.jpg",
+    "remoteBase": "/DSN-books-05/books/finding-dory-ocean-of-colors/"
+  },
+  {
+    "id": "finding-dory-three-little-words",
+    "title": "Finding Dory - Three Little Words",
+    "series": "Finding Dory",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/finding-dory-three-little-words.jpg",
+    "remoteBase": "/DSN-books-05/books/finding-dory-three-little-words/"
+  },
+  {
+    "id": "finding-nemo",
+    "title": "Finding Nemo",
+    "series": "Finding Nemo",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/finding-nemo.jpg",
+    "remoteBase": "/DSN-books-05/books/finding-nemo/"
+  },
+  {
+    "id": "fox-and-hound-hide-and-seek",
+    "title": "Fox and Hound - Hide and Seek",
+    "series": "Fox and Hound",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/fox-and-hound-hide-and-seek.jpg",
+    "remoteBase": "/DSN-books-05/books/fox-and-hound-hide-and-seek/"
+  },
+  {
+    "id": "frankenweenie",
+    "title": "Frankenweenie",
+    "series": "Frankenweenie",
+    "pages": 68,
+    "hasAudio": true,
+    "cover": "covers/frankenweenie.jpg",
+    "remoteBase": "/DSN-books-05/books/frankenweenie/"
+  },
+  {
+    "id": "frankenweenie-monstrous-menagerie",
+    "title": "Frankenweenie - Monstrous Menagerie",
+    "series": "Frankenweenie",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frankenweenie-monstrous-menagerie.jpg",
+    "remoteBase": "/DSN-books-05/books/frankenweenie-monstrous-menagerie/"
+  },
+  {
+    "id": "frozen",
+    "title": "Frozen",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen/"
+  },
+  {
+    "id": "frozen-2-in-1",
+    "title": "Frozen - 2 in 1",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-2-in-1.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-2-in-1/"
+  },
+  {
+    "id": "frozen-6-in-1",
+    "title": "Frozen - 6 in 1",
+    "series": "Frozen",
+    "pages": 196,
+    "hasAudio": false,
+    "cover": "covers/frozen-6-in-1.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-6-in-1/"
+  },
+  {
+    "id": "frozen-a-cool-contest",
+    "title": "Frozen - A Cool Contest",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-a-cool-contest.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-a-cool-contest/"
+  },
+  {
+    "id": "frozen-a-sister-more-like-me",
+    "title": "Frozen - A Sister More Like Me",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-a-sister-more-like-me.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-a-sister-more-like-me/"
+  },
+  {
+    "id": "frozen-across-the-sea",
+    "title": "Frozen - Across the Sea",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-across-the-sea.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-across-the-sea/"
+  },
+  {
+    "id": "frozen-an-amazing-snowman",
+    "title": "Frozen - An Amazing Snowman",
+    "series": "Frozen",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/frozen-an-amazing-snowman.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-an-amazing-snowman/"
+  },
+  {
+    "id": "frozen-an-icy-monster",
+    "title": "Frozen - An Icy Monster",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-an-icy-monster.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-an-icy-monster/"
+  },
+  {
+    "id": "frozen-anna-in-charge",
+    "title": "Frozen - Anna in Charge",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-anna-in-charge.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-anna-in-charge/"
+  },
+  {
+    "id": "frozen-anna-loves-elsa",
+    "title": "Frozen - Anna Loves Elsa",
+    "series": "Frozen",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/frozen-anna-loves-elsa.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-anna-loves-elsa/"
+  },
+  {
+    "id": "frozen-anna-s-birthday-surprise",
+    "title": "Frozen - Anna's Birthday Surprise",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-anna-s-birthday-surprise.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-anna-s-birthday-surprise/"
+  },
+  {
+    "id": "frozen-babysitting-trolls",
+    "title": "Frozen - Babysitting Trolls",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-babysitting-trolls.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-babysitting-trolls/"
+  },
+  {
+    "id": "frozen-big-snowman-little-snowman",
+    "title": "Frozen - Big Snowman Little Snowman",
+    "series": "Frozen",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/frozen-big-snowman-little-snowman.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-big-snowman-little-snowman/"
+  },
+  {
+    "id": "frozen-bulda-s-crystal",
+    "title": "Frozen - Bulda's Crystal",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-bulda-s-crystal.jpg",
+    "remoteBase": "/DSN-books-05/books/frozen-bulda-s-crystal/"
+  },
+  {
+    "id": "frozen-childhood-times",
+    "title": "Frozen - Childhood Times",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-childhood-times.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-childhood-times/"
+  },
+  {
+    "id": "frozen-do-you-want-a-hug",
+    "title": "Frozen - Do You Want A Hug",
+    "series": "Frozen",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/frozen-do-you-want-a-hug.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-do-you-want-a-hug/"
+  },
+  {
+    "id": "frozen-elsa-s-gift",
+    "title": "Frozen - Elsa's Gift",
+    "series": "Frozen",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/frozen-elsa-s-gift.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-elsa-s-gift/"
+  },
+  {
+    "id": "frozen-elsa-s-perfect-plan",
+    "title": "Frozen - Elsa's Perfect Plan",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-elsa-s-perfect-plan.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-elsa-s-perfect-plan/"
+  },
+  {
+    "id": "frozen-hello-olaf",
+    "title": "Frozen - Hello Olaf",
+    "series": "Frozen",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/frozen-hello-olaf.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-hello-olaf/"
+  },
+  {
+    "id": "frozen-little-brothers",
+    "title": "Frozen - Little Brothers",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-little-brothers.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-little-brothers/"
+  },
+  {
+    "id": "frozen-melting-hearts",
+    "title": "Frozen - Melting Hearts",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-melting-hearts.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-melting-hearts/"
+  },
+  {
+    "id": "frozen-midsummer-parade",
+    "title": "Frozen - Midsummer Parade",
+    "series": "Frozen",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/frozen-midsummer-parade.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-midsummer-parade/"
+  },
+  {
+    "id": "frozen-new-reindeer",
+    "title": "Frozen - New Reindeer",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-new-reindeer.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-new-reindeer/"
+  },
+  {
+    "id": "frozen-olaf-s-birthday",
+    "title": "Frozen - Olaf's Birthday",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-olaf-s-birthday.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-olaf-s-birthday/"
+  },
+  {
+    "id": "frozen-olaf-s-frozen-adventure",
+    "title": "Frozen - Olaf's Frozen Adventure",
+    "series": "Frozen",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/frozen-olaf-s-frozen-adventure.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-olaf-s-frozen-adventure/"
+  },
+  {
+    "id": "frozen-olaf-s-night-before-christmas",
+    "title": "Frozen - Olaf's Night Before Christmas",
+    "series": "Frozen",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/frozen-olaf-s-night-before-christmas.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-olaf-s-night-before-christmas/"
+  },
+  {
+    "id": "frozen-olaf-s-perfect-summer-day",
+    "title": "Frozen - Olaf's Perfect Summer Day",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-olaf-s-perfect-summer-day.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-olaf-s-perfect-summer-day/"
+  },
+  {
+    "id": "frozen-olaf-s-summer-day",
+    "title": "Frozen - Olaf's Summer Day",
+    "series": "Frozen",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/frozen-olaf-s-summer-day.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-olaf-s-summer-day/"
+  },
+  {
+    "id": "frozen-spring-parade",
+    "title": "Frozen - Spring Parade",
+    "series": "Frozen",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-spring-parade.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-spring-parade/"
+  },
+  {
+    "id": "frozen-tale-of-two-sisters",
+    "title": "Frozen - Tale of Two Sisters",
+    "series": "Frozen",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/frozen-tale-of-two-sisters.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-tale-of-two-sisters/"
+  },
+  {
+    "id": "frozen-winterend-festival",
+    "title": "Frozen - Winterend Festival",
+    "series": "Frozen",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/frozen-winterend-festival.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-winterend-festival/"
+  },
+  {
+    "id": "frozen-v2",
+    "title": "Frozen v2",
+    "series": "Frozen v2",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/frozen-v2.jpg",
+    "remoteBase": "/DSN-books-06/books/frozen-v2/"
+  },
+  {
+    "id": "gravity-falls-convenience-store-of-horrors",
+    "title": "Gravity Falls - Convenience Store of Horrors",
+    "series": "Gravity Falls",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/gravity-falls-convenience-store-of-horrors.jpg",
+    "remoteBase": "/DSN-books-06/books/gravity-falls-convenience-store-of-horrors/"
+  },
+  {
+    "id": "gravity-falls-happy-summerween",
+    "title": "Gravity Falls - Happy Summerween",
+    "series": "Gravity Falls",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/gravity-falls-happy-summerween.jpg",
+    "remoteBase": "/DSN-books-06/books/gravity-falls-happy-summerween/"
+  },
+  {
+    "id": "huey-dewey-louie-rainy-day",
+    "title": "Huey, Dewey, Louie, Rainy Day",
+    "series": "Huey, Dewey, Louie, Rainy Day",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/huey-dewey-louie-rainy-day.jpg",
+    "remoteBase": "/DSN-books-06/books/huey-dewey-louie-rainy-day/"
+  },
+  {
+    "id": "incredibles-super-annoying",
+    "title": "Incredibles - Super Annoying",
+    "series": "Incredibles",
+    "pages": 18,
+    "hasAudio": true,
+    "cover": "covers/incredibles-super-annoying.jpg",
+    "remoteBase": "/DSN-books-06/books/incredibles-super-annoying/"
+  },
+  {
+    "id": "incredibles-2",
+    "title": "Incredibles 2",
+    "series": "Incredibles",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/incredibles-2.jpg",
+    "remoteBase": "/DSN-books-06/books/incredibles-2/"
+  },
+  {
+    "id": "incredibles-2-baby-sitting-mode",
+    "title": "Incredibles 2 - Baby Sitting Mode",
+    "series": "Incredibles 2",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/incredibles-2-baby-sitting-mode.jpg",
+    "remoteBase": "/DSN-books-06/books/incredibles-2-baby-sitting-mode/"
+  },
+  {
+    "id": "incredibles-2-incedible-elasticgirl",
+    "title": "Incredibles 2 - Incedible Elasticgirl",
+    "series": "Incredibles 2",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/incredibles-2-incedible-elasticgirl.jpg",
+    "remoteBase": "/DSN-books-07/books/incredibles-2-incedible-elasticgirl/"
+  },
+  {
+    "id": "incredibles-2-sweet-dream-jack-jack",
+    "title": "Incredibles 2 - Sweet Dream Jack Jack",
+    "series": "Incredibles 2",
+    "pages": 44,
+    "hasAudio": true,
+    "cover": "covers/incredibles-2-sweet-dream-jack-jack.jpg",
+    "remoteBase": "/DSN-books-07/books/incredibles-2-sweet-dream-jack-jack/"
+  },
+  {
+    "id": "inside-out-2-in-1",
+    "title": "Inside Out - 2 in 1",
+    "series": "Inside Out",
+    "pages": 32,
+    "hasAudio": true,
+    "cover": "covers/inside-out-2-in-1.jpg",
+    "remoteBase": "/DSN-books-07/books/inside-out-2-in-1/"
+  },
+  {
+    "id": "inside-out-an-imaginary-friend",
+    "title": "Inside Out - An Imaginary Friend",
+    "series": "Inside Out",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/inside-out-an-imaginary-friend.jpg",
+    "remoteBase": "/DSN-books-07/books/inside-out-an-imaginary-friend/"
+  },
+  {
+    "id": "inside-out-journey-into-the-mind",
+    "title": "Inside Out - Journey into the Mind",
+    "series": "Inside Out",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/inside-out-journey-into-the-mind.jpg",
+    "remoteBase": "/DSN-books-07/books/inside-out-journey-into-the-mind/"
+  },
+  {
+    "id": "inside-out-welcome-to-headquarters",
+    "title": "Inside Out - Welcome to Headquarters",
+    "series": "Inside Out",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/inside-out-welcome-to-headquarters.jpg",
+    "remoteBase": "/DSN-books-07/books/inside-out-welcome-to-headquarters/"
+  },
+  {
+    "id": "jasmine-desert-race",
+    "title": "Jasmine - Desert Race",
+    "series": "Jasmine",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/jasmine-desert-race.jpg",
+    "remoteBase": "/DSN-books-07/books/jasmine-desert-race/"
+  },
+  {
+    "id": "jasmine-matchmaker",
+    "title": "Jasmine - Matchmaker",
+    "series": "Jasmine",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/jasmine-matchmaker.jpg",
+    "remoteBase": "/DSN-books-07/books/jasmine-matchmaker/"
+  },
+  {
+    "id": "jasmine-royal-wedding",
+    "title": "Jasmine - Royal Wedding",
+    "series": "Jasmine",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/jasmine-royal-wedding.jpg",
+    "remoteBase": "/DSN-books-07/books/jasmine-royal-wedding/"
+  },
+  {
+    "id": "jasmine-runaway-rajah",
+    "title": "Jasmine - Runaway Rajah",
+    "series": "Jasmine",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/jasmine-runaway-rajah.jpg",
+    "remoteBase": "/DSN-books-07/books/jasmine-runaway-rajah/"
+  },
+  {
+    "id": "jungle-book",
+    "title": "Jungle Book",
+    "series": "Jungle Book",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/jungle-book.jpg",
+    "remoteBase": "/DSN-books-07/books/jungle-book/"
+  },
+  {
+    "id": "jungle-book-it-takes-two",
+    "title": "Jungle Book - It Takes Two",
+    "series": "Jungle Book",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/jungle-book-it-takes-two.jpg",
+    "remoteBase": "/DSN-books-07/books/jungle-book-it-takes-two/"
+  },
+  {
+    "id": "la-luna",
+    "title": "La Luna",
+    "series": "La Luna",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/la-luna.jpg",
+    "remoteBase": "/DSN-books-07/books/la-luna/"
+  },
+  {
+    "id": "lady-and-tramp",
+    "title": "Lady and Tramp",
+    "series": "Lady and Tramp",
+    "pages": 30,
+    "hasAudio": true,
+    "cover": "covers/lady-and-tramp.jpg",
+    "remoteBase": "/DSN-books-07/books/lady-and-tramp/"
+  },
+  {
+    "id": "lady-tramp-trusty-babysitter",
+    "title": "Lady Tramp - Trusty Babysitter",
+    "series": "Lady Tramp",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/lady-tramp-trusty-babysitter.jpg",
+    "remoteBase": "/DSN-books-07/books/lady-tramp-trusty-babysitter/"
+  },
+  {
+    "id": "laughing-place",
+    "title": "Laughing Place",
+    "series": "Laughing Place",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/laughing-place.jpg",
+    "remoteBase": "/DSN-books-07/books/laughing-place/"
+  },
+  {
+    "id": "lilo-and-stitch-go-stitch-go",
+    "title": "Lilo and Stitch - Go Stitch Go",
+    "series": "Lilo and Stitch",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/lilo-and-stitch-go-stitch-go.jpg",
+    "remoteBase": "/DSN-books-07/books/lilo-and-stitch-go-stitch-go/"
+  },
+  {
+    "id": "lilo-and-stitch-home-stinky-home",
+    "title": "Lilo and Stitch - Home Stinky Home",
+    "series": "Lilo and Stitch",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/lilo-and-stitch-home-stinky-home.jpg",
+    "remoteBase": "/DSN-books-07/books/lilo-and-stitch-home-stinky-home/"
+  },
+  {
+    "id": "lion-guard-babysitter-bunga",
+    "title": "Lion Guard - Babysitter Bunga",
+    "series": "Lion Guard",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/lion-guard-babysitter-bunga.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-guard-babysitter-bunga/"
+  },
+  {
+    "id": "lion-guard-bug-stew",
+    "title": "Lion Guard - Bug Stew",
+    "series": "Lion Guard",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/lion-guard-bug-stew.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-guard-bug-stew/"
+  },
+  {
+    "id": "lion-guard-return-of-the-roar",
+    "title": "Lion Guard - Return of the Roar",
+    "series": "Lion Guard",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/lion-guard-return-of-the-roar.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-guard-return-of-the-roar/"
+  },
+  {
+    "id": "lion-guard-unlikely-friends",
+    "title": "Lion Guard - Unlikely Friends",
+    "series": "Lion Guard",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/lion-guard-unlikely-friends.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-guard-unlikely-friends/"
+  },
+  {
+    "id": "lion-king",
+    "title": "Lion King",
+    "series": "Lion King",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/lion-king.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-king/"
+  },
+  {
+    "id": "lion-king-a-day-without-pumbaa",
+    "title": "Lion King - A Day Without Pumbaa",
+    "series": "Lion King",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/lion-king-a-day-without-pumbaa.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-king-a-day-without-pumbaa/"
+  },
+  {
+    "id": "lion-king-a-wild-night-out",
+    "title": "Lion King - A Wild Night Out",
+    "series": "Lion King",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/lion-king-a-wild-night-out.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-king-a-wild-night-out/"
+  },
+  {
+    "id": "lion-king-v2",
+    "title": "Lion King v2",
+    "series": "Lion King v2",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/lion-king-v2.jpg",
+    "remoteBase": "/DSN-books-07/books/lion-king-v2/"
+  },
+  {
+    "id": "little-man-of-disneyland",
+    "title": "Little Man of Disneyland",
+    "series": "Little Man of Disneyland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/little-man-of-disneyland.jpg",
+    "remoteBase": "/DSN-books-07/books/little-man-of-disneyland/"
+  },
+  {
+    "id": "little-mermaid",
+    "title": "Little Mermaid",
+    "series": "Little Mermaid",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/little-mermaid.jpg",
+    "remoteBase": "/DSN-books-07/books/little-mermaid/"
+  },
+  {
+    "id": "m-is-for-monsters",
+    "title": "M is for Monsters",
+    "series": "M is for Monsters",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/m-is-for-monsters.jpg",
+    "remoteBase": "/DSN-books-08/books/m-is-for-monsters/"
+  },
+  {
+    "id": "mad-hatter-s-tea-party",
+    "title": "Mad Hatter's Tea Party",
+    "series": "Mad Hatter's Tea Party",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mad-hatter-s-tea-party.jpg",
+    "remoteBase": "/DSN-books-08/books/mad-hatter-s-tea-party/"
+  },
+  {
+    "id": "maddest-tea-party",
+    "title": "Maddest Tea Party",
+    "series": "Maddest Tea Party",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/maddest-tea-party.jpg",
+    "remoteBase": "/DSN-books-08/books/maddest-tea-party/"
+  },
+  {
+    "id": "magic-is-in-you",
+    "title": "Magic is in You",
+    "series": "Magic is in You",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/magic-is-in-you.jpg",
+    "remoteBase": "/DSN-books-08/books/magic-is-in-you/"
+  },
+  {
+    "id": "meet-the-muppets",
+    "title": "Meet the Muppets",
+    "series": "Meet the Muppets",
+    "pages": 32,
+    "hasAudio": true,
+    "cover": "covers/meet-the-muppets.jpg",
+    "remoteBase": "/DSN-books-08/books/meet-the-muppets/"
+  },
+  {
+    "id": "mermaid",
+    "title": "Mermaid",
+    "series": "Mermaid",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/mermaid.jpg",
+    "remoteBase": "/DSN-books-08/books/mermaid/"
+  },
+  {
+    "id": "mermaid-part-of-their-world",
+    "title": "Mermaid - Part of Their World",
+    "series": "Mermaid",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/mermaid-part-of-their-world.jpg",
+    "remoteBase": "/DSN-books-08/books/mermaid-part-of-their-world/"
+  },
+  {
+    "id": "mermaid-royal-wedding",
+    "title": "Mermaid - Royal Wedding",
+    "series": "Mermaid",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mermaid-royal-wedding.jpg",
+    "remoteBase": "/DSN-books-08/books/mermaid-royal-wedding/"
+  },
+  {
+    "id": "mermaid-sealed-with-a-kiss",
+    "title": "Mermaid - Sealed with a Kiss",
+    "series": "Mermaid",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/mermaid-sealed-with-a-kiss.jpg",
+    "remoteBase": "/DSN-books-08/books/mermaid-sealed-with-a-kiss/"
+  },
+  {
+    "id": "mermid-ariel-s-beginning",
+    "title": "Mermid - Ariel's Beginning",
+    "series": "Mermid",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mermid-ariel-s-beginning.jpg",
+    "remoteBase": "/DSN-books-08/books/mermid-ariel-s-beginning/"
+  },
+  {
+    "id": "mickey-a-model-patient",
+    "title": "Mickey - A Model Patient",
+    "series": "Mickey",
+    "pages": 18,
+    "hasAudio": true,
+    "cover": "covers/mickey-a-model-patient.jpg",
+    "remoteBase": "/DSN-books-08/books/mickey-a-model-patient/"
+  },
+  {
+    "id": "mickey-a-perfect-picnic",
+    "title": "Mickey - A Perfect Picnic",
+    "series": "Mickey",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/mickey-a-perfect-picnic.jpg",
+    "remoteBase": "/DSN-books-08/books/mickey-a-perfect-picnic/"
+  },
+  {
+    "id": "mickey-goofy-at-bat",
+    "title": "Mickey - Goofy at Bat",
+    "series": "Mickey",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/mickey-goofy-at-bat.jpg",
+    "remoteBase": "/DSN-books-08/books/mickey-goofy-at-bat/"
+  },
+  {
+    "id": "mickey-goofy-s-sliding-contest",
+    "title": "Mickey - Goofy's Sliding Contest",
+    "series": "Mickey",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/mickey-goofy-s-sliding-contest.jpg",
+    "remoteBase": "/DSN-books-08/books/mickey-goofy-s-sliding-contest/"
+  },
+  {
+    "id": "mickey-perfecto-day",
+    "title": "Mickey - Perfecto Day",
+    "series": "Mickey",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/mickey-perfecto-day.jpg",
+    "remoteBase": "/DSN-books-08/books/mickey-perfecto-day/"
+  },
+  {
+    "id": "mickey-spooky-night",
+    "title": "Mickey - Spooky Night",
+    "series": "Mickey",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mickey-spooky-night.jpg",
+    "remoteBase": "/DSN-books-08/books/mickey-spooky-night/"
+  },
+  {
+    "id": "miss-piggy-in-the-spotlight",
+    "title": "Miss Piggy in the Spotlight",
+    "series": "Miss Piggy in the Spotlight",
+    "pages": 32,
+    "hasAudio": true,
+    "cover": "covers/miss-piggy-in-the-spotlight.jpg",
+    "remoteBase": "/DSN-books-08/books/miss-piggy-in-the-spotlight/"
+  },
+  {
+    "id": "mmcc-christmas-carol",
+    "title": "MMCC Christmas Carol",
+    "series": "MMCC Christmas Carol",
+    "pages": 60,
+    "hasAudio": true,
+    "cover": "covers/mmcc-christmas-carol.jpg",
+    "remoteBase": "/DSN-books-08/books/mmcc-christmas-carol/"
+  },
+  {
+    "id": "mmcc-gift-of-the-magi",
+    "title": "MMCC Gift of the Magi",
+    "series": "MMCC Gift of the Magi",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/mmcc-gift-of-the-magi.jpg",
+    "remoteBase": "/DSN-books-08/books/mmcc-gift-of-the-magi/"
+  },
+  {
+    "id": "mmcc-prince-and-pauper",
+    "title": "MMCC Prince and Pauper",
+    "series": "MMCC Prince and Pauper",
+    "pages": 62,
+    "hasAudio": true,
+    "cover": "covers/mmcc-prince-and-pauper.jpg",
+    "remoteBase": "/DSN-books-08/books/mmcc-prince-and-pauper/"
+  },
+  {
+    "id": "mmcc-sorcerer-apprentice",
+    "title": "MMCC Sorcerer Apprentice",
+    "series": "MMCC Sorcerer Apprentice",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmcc-sorcerer-apprentice.jpg",
+    "remoteBase": "/DSN-books-08/books/mmcc-sorcerer-apprentice/"
+  },
+  {
+    "id": "mmch-colors",
+    "title": "MMCH - Colors",
+    "series": "MMCH",
+    "pages": 16,
+    "hasAudio": true,
+    "cover": "covers/mmch-colors.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-colors/"
+  },
+  {
+    "id": "mmch-easter-hunt",
+    "title": "MMCH - Easter Hunt",
+    "series": "MMCH",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/mmch-easter-hunt.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-easter-hunt/"
+  },
+  {
+    "id": "mmch-farm",
+    "title": "MMCH - Farm",
+    "series": "MMCH",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/mmch-farm.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-farm/"
+  },
+  {
+    "id": "mmch-goofy-fairy-tale",
+    "title": "MMCH - Goofy Fairy Tale",
+    "series": "MMCH",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmch-goofy-fairy-tale.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-goofy-fairy-tale/"
+  },
+  {
+    "id": "mmch-halloween-treat",
+    "title": "MMCH - Halloween Treat",
+    "series": "MMCH",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/mmch-halloween-treat.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-halloween-treat/"
+  },
+  {
+    "id": "mmch-mickey-saves-santa",
+    "title": "MMCH - Mickey Saves Santa",
+    "series": "MMCH",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmch-mickey-saves-santa.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-mickey-saves-santa/"
+  },
+  {
+    "id": "mmch-minnie-s-rainbow",
+    "title": "MMCH - Minnie's Rainbow",
+    "series": "MMCH",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmch-minnie-s-rainbow.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-minnie-s-rainbow/"
+  },
+  {
+    "id": "mmch-minnie-s-summer-vacation",
+    "title": "MMCH - Minnie's Summer Vacation",
+    "series": "MMCH",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/mmch-minnie-s-summer-vacation.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-minnie-s-summer-vacation/"
+  },
+  {
+    "id": "mmch-minnie-s-vacation",
+    "title": "MMCH - Minnie's Vacation",
+    "series": "MMCH",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/mmch-minnie-s-vacation.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-minnie-s-vacation/"
+  },
+  {
+    "id": "mmch-minnie-s-valentine",
+    "title": "MMCH - Minnie's Valentine",
+    "series": "MMCH",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmch-minnie-s-valentine.jpg",
+    "remoteBase": "/DSN-books-08/books/mmch-minnie-s-valentine/"
+  },
+  {
+    "id": "mmch-minnierella",
+    "title": "MMCH - Minnierella",
+    "series": "MMCH",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/mmch-minnierella.jpg",
+    "remoteBase": "/DSN-books-09/books/mmch-minnierella/"
+  },
+  {
+    "id": "mmch-space-adventure",
+    "title": "MMCH - Space Adventure",
+    "series": "MMCH",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/mmch-space-adventure.jpg",
+    "remoteBase": "/DSN-books-09/books/mmch-space-adventure/"
+  },
+  {
+    "id": "mmch-super-adventure",
+    "title": "MMCH - Super Adventure",
+    "series": "MMCH",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmch-super-adventure.jpg",
+    "remoteBase": "/DSN-books-09/books/mmch-super-adventure/"
+  },
+  {
+    "id": "mmch-top-o-clubhouse",
+    "title": "MMCH - Top o Clubhouse",
+    "series": "MMCH",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mmch-top-o-clubhouse.jpg",
+    "remoteBase": "/DSN-books-09/books/mmch-top-o-clubhouse/"
+  },
+  {
+    "id": "moana",
+    "title": "Moana",
+    "series": "Moana",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/moana.jpg",
+    "remoteBase": "/DSN-books-09/books/moana/"
+  },
+  {
+    "id": "moana-beware-kakamora",
+    "title": "Moana - Beware Kakamora",
+    "series": "Moana",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/moana-beware-kakamora.jpg",
+    "remoteBase": "/DSN-books-09/books/moana-beware-kakamora/"
+  },
+  {
+    "id": "moana-finds-the-way",
+    "title": "Moana - Finds the Way",
+    "series": "Moana",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/moana-finds-the-way.jpg",
+    "remoteBase": "/DSN-books-09/books/moana-finds-the-way/"
+  },
+  {
+    "id": "moana-mighty-maui-makes-a-friend",
+    "title": "Moana - Mighty Maui Makes A Friend",
+    "series": "Moana",
+    "pages": 36,
+    "hasAudio": false,
+    "cover": "covers/moana-mighty-maui-makes-a-friend.jpg",
+    "remoteBase": "/DSN-books-09/books/moana-mighty-maui-makes-a-friend/"
+  },
+  {
+    "id": "moana-quest-for-the-heart",
+    "title": "Moana - Quest for the Heart",
+    "series": "Moana",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/moana-quest-for-the-heart.jpg",
+    "remoteBase": "/DSN-books-09/books/moana-quest-for-the-heart/"
+  },
+  {
+    "id": "moana-where-monsters-live",
+    "title": "Moana - Where Monsters Live",
+    "series": "Moana",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/moana-where-monsters-live.jpg",
+    "remoteBase": "/DSN-books-09/books/moana-where-monsters-live/"
+  },
+  {
+    "id": "moana-and-the-ocean",
+    "title": "Moana and the Ocean",
+    "series": "Moana and the Ocean",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/moana-and-the-ocean.jpg",
+    "remoteBase": "/DSN-books-09/books/moana-and-the-ocean/"
+  },
+  {
+    "id": "monster-inc",
+    "title": "Monster Inc",
+    "series": "Monster Inc",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/monster-inc.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-inc/"
+  },
+  {
+    "id": "monster-inc-always-time-for-laugh",
+    "title": "Monster Inc - Always Time for Laugh",
+    "series": "Monster Inc",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/monster-inc-always-time-for-laugh.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-inc-always-time-for-laugh/"
+  },
+  {
+    "id": "monster-inc-boo-in-the-loose",
+    "title": "Monster Inc - Boo in the Loose",
+    "series": "Monster Inc",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/monster-inc-boo-in-the-loose.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-inc-boo-in-the-loose/"
+  },
+  {
+    "id": "monster-inc-happy-birthday-mike",
+    "title": "Monster Inc - Happy Birthday Mike",
+    "series": "Monster Inc",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/monster-inc-happy-birthday-mike.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-inc-happy-birthday-mike/"
+  },
+  {
+    "id": "monster-inc-monster-laugh",
+    "title": "Monster Inc - Monster Laugh",
+    "series": "Monster Inc",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/monster-inc-monster-laugh.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-inc-monster-laugh/"
+  },
+  {
+    "id": "monster-inc-what-i-did-in-summer-vacation",
+    "title": "Monster Inc - What I Did in Summer Vacation",
+    "series": "Monster Inc",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/monster-inc-what-i-did-in-summer-vacation.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-inc-what-i-did-in-summer-vacation/"
+  },
+  {
+    "id": "monster-university",
+    "title": "Monster University",
+    "series": "Monster University",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/monster-university.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-university/"
+  },
+  {
+    "id": "monster-university-monster-games",
+    "title": "Monster University - Monster Games",
+    "series": "Monster University",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/monster-university-monster-games.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-university-monster-games/"
+  },
+  {
+    "id": "monster-university-party-central",
+    "title": "Monster University - Party Central",
+    "series": "Monster University",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/monster-university-party-central.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-university-party-central/"
+  },
+  {
+    "id": "monster-university-roaring-rivals",
+    "title": "Monster University - Roaring Rivals",
+    "series": "Monster University",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/monster-university-roaring-rivals.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-university-roaring-rivals/"
+  },
+  {
+    "id": "monster-university-scaring-lessons",
+    "title": "Monster University - Scaring Lessons",
+    "series": "Monster University",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/monster-university-scaring-lessons.jpg",
+    "remoteBase": "/DSN-books-09/books/monster-university-scaring-lessons/"
+  },
+  {
+    "id": "mowgli-s-great-story",
+    "title": "Mowgli's Great Story",
+    "series": "Mowgli's Great Story",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/mowgli-s-great-story.jpg",
+    "remoteBase": "/DSN-books-09/books/mowgli-s-great-story/"
+  },
+  {
+    "id": "mowglis-s-rainy-day",
+    "title": "Mowglis's Rainy Day",
+    "series": "Mowglis's Rainy Day",
+    "pages": 44,
+    "hasAudio": true,
+    "cover": "covers/mowglis-s-rainy-day.jpg",
+    "remoteBase": "/DSN-books-09/books/mowglis-s-rainy-day/"
+  },
+  {
+    "id": "mulan",
+    "title": "Mulan",
+    "series": "Mulan",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mulan.jpg",
+    "remoteBase": "/DSN-books-09/books/mulan/"
+  },
+  {
+    "id": "mulan-a-time-for-courage",
+    "title": "Mulan - A Time for Courage",
+    "series": "Mulan",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/mulan-a-time-for-courage.jpg",
+    "remoteBase": "/DSN-books-09/books/mulan-a-time-for-courage/"
+  },
+  {
+    "id": "mulan-khan-to-the-rescue",
+    "title": "Mulan - Khan to the Rescue",
+    "series": "Mulan",
+    "pages": 18,
+    "hasAudio": true,
+    "cover": "covers/mulan-khan-to-the-rescue.jpg",
+    "remoteBase": "/DSN-books-09/books/mulan-khan-to-the-rescue/"
+  },
+  {
+    "id": "mulan-the-highest-honor",
+    "title": "Mulan - The Highest Honor",
+    "series": "Mulan",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/mulan-the-highest-honor.jpg",
+    "remoteBase": "/DSN-books-09/books/mulan-the-highest-honor/"
+  },
+  {
+    "id": "nemo-a-friend-in-need",
+    "title": "Nemo - A Friend In Need",
+    "series": "Nemo",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/nemo-a-friend-in-need.jpg",
+    "remoteBase": "/DSN-books-09/books/nemo-a-friend-in-need/"
+  },
+  {
+    "id": "nemo-just-keep-swimming",
+    "title": "Nemo - Just Keep Swimming",
+    "series": "Nemo",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/nemo-just-keep-swimming.jpg",
+    "remoteBase": "/DSN-books-09/books/nemo-just-keep-swimming/"
+  },
+  {
+    "id": "nemo-the-ghost-light-fish",
+    "title": "Nemo - The Ghost Light Fish",
+    "series": "Nemo",
+    "pages": 22,
+    "hasAudio": true,
+    "cover": "covers/nemo-the-ghost-light-fish.jpg",
+    "remoteBase": "/DSN-books-09/books/nemo-the-ghost-light-fish/"
+  },
+  {
+    "id": "neverland-after-a-while-crocodile",
+    "title": "Neverland - After A While, Crocodile",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-after-a-while-crocodile.jpg",
+    "remoteBase": "/DSN-books-09/books/neverland-after-a-while-crocodile/"
+  },
+  {
+    "id": "neverland-ahoy-izzi",
+    "title": "Neverland - Ahoy Izzi",
+    "series": "Neverland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/neverland-ahoy-izzi.jpg",
+    "remoteBase": "/DSN-books-09/books/neverland-ahoy-izzi/"
+  },
+  {
+    "id": "neverland-battle-for-the-book",
+    "title": "Neverland - Battle for the Book",
+    "series": "Neverland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/neverland-battle-for-the-book.jpg",
+    "remoteBase": "/DSN-books-09/books/neverland-battle-for-the-book/"
+  },
+  {
+    "id": "neverland-birthday-bash",
+    "title": "Neverland - Birthday Bash",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-birthday-bash.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-birthday-bash/"
+  },
+  {
+    "id": "neverland-bucky-make-a-splash",
+    "title": "Neverland - Bucky Make A Splash",
+    "series": "Neverland",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/neverland-bucky-make-a-splash.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-bucky-make-a-splash/"
+  },
+  {
+    "id": "neverland-follow-that-sound",
+    "title": "Neverland - Follow That Sound",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-follow-that-sound.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-follow-that-sound/"
+  },
+  {
+    "id": "neverland-key-to-skullrock",
+    "title": "Neverland - Key to Skullrock",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-key-to-skullrock.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-key-to-skullrock/"
+  },
+  {
+    "id": "neverland-let-s-get-jumping",
+    "title": "Neverland - Let's Get Jumping",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-let-s-get-jumping.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-let-s-get-jumping/"
+  },
+  {
+    "id": "neverland-mixed-up-map",
+    "title": "Neverland - Mixed Up Map",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-mixed-up-map.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-mixed-up-map/"
+  },
+  {
+    "id": "neverland-neversea-conquest",
+    "title": "Neverland - Neversea Conquest",
+    "series": "Neverland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/neverland-neversea-conquest.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-neversea-conquest/"
+  },
+  {
+    "id": "neverland-pirate-campout",
+    "title": "Neverland - Pirate Campout",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-pirate-campout.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-pirate-campout/"
+  },
+  {
+    "id": "neverland-save-me-smee",
+    "title": "Neverland - Save Me Smee",
+    "series": "Neverland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/neverland-save-me-smee.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-save-me-smee/"
+  },
+  {
+    "id": "neverland-spyglass",
+    "title": "Neverland - Spyglass",
+    "series": "Neverland",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/neverland-spyglass.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-spyglass/"
+  },
+  {
+    "id": "neverland-surfin-turf",
+    "title": "Neverland - Surfin Turf",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-surfin-turf.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-surfin-turf/"
+  },
+  {
+    "id": "neverland-the-pirate-games",
+    "title": "Neverland - The Pirate Games",
+    "series": "Neverland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/neverland-the-pirate-games.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-the-pirate-games/"
+  },
+  {
+    "id": "neverland-treasure-of-the-tides",
+    "title": "Neverland - Treasure of the Tides",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-treasure-of-the-tides.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-treasure-of-the-tides/"
+  },
+  {
+    "id": "neverland-trick-or-treasure",
+    "title": "Neverland - Trick or Treasure",
+    "series": "Neverland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/neverland-trick-or-treasure.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-trick-or-treasure/"
+  },
+  {
+    "id": "neverland-x-mark-the-croc",
+    "title": "Neverland - X Mark the Croc",
+    "series": "Neverland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/neverland-x-mark-the-croc.jpg",
+    "remoteBase": "/DSN-books-10/books/neverland-x-mark-the-croc/"
+  },
+  {
+    "id": "paperman",
+    "title": "Paperman",
+    "series": "Paperman",
+    "pages": 76,
+    "hasAudio": true,
+    "cover": "covers/paperman.jpg",
+    "remoteBase": "/DSN-books-10/books/paperman/"
+  },
+  {
+    "id": "peter-pan",
+    "title": "Peter Pan",
+    "series": "Peter Pan",
+    "pages": 34,
+    "hasAudio": false,
+    "cover": "covers/peter-pan.jpg",
+    "remoteBase": "/DSN-books-10/books/peter-pan/"
+  },
+  {
+    "id": "peter-pan-storybook",
+    "title": "Peter Pan Storybook",
+    "series": "Peter Pan Storybook",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/peter-pan-storybook.jpg",
+    "remoteBase": "/DSN-books-10/books/peter-pan-storybook/"
+  },
+  {
+    "id": "phineas-ferb-2-b-in-1",
+    "title": "Phineas Ferb - 2 B in 1",
+    "series": "Phineas Ferb",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-2-b-in-1.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-2-b-in-1/"
+  },
+  {
+    "id": "phineas-ferb-boogie-down",
+    "title": "Phineas Ferb - Boogie Down",
+    "series": "Phineas Ferb",
+    "pages": 52,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-boogie-down.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-boogie-down/"
+  },
+  {
+    "id": "phineas-ferb-christmas-vacation",
+    "title": "Phineas Ferb - Christmas Vacation",
+    "series": "Phineas Ferb",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-christmas-vacation.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-christmas-vacation/"
+  },
+  {
+    "id": "phineas-ferb-egsstravaganza",
+    "title": "Phineas Ferb - Egsstravaganza",
+    "series": "Phineas Ferb",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-egsstravaganza.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-egsstravaganza/"
+  },
+  {
+    "id": "phineas-ferb-haunted-hayride",
+    "title": "Phineas Ferb - Haunted Hayride",
+    "series": "Phineas Ferb",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-haunted-hayride.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-haunted-hayride/"
+  },
+  {
+    "id": "phineas-ferb-light-camera-perry",
+    "title": "Phineas Ferb - Light, Camera, Perry",
+    "series": "Phineas Ferb",
+    "pages": 52,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-light-camera-perry.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-light-camera-perry/"
+  },
+  {
+    "id": "phineas-ferb-lost-at-sea",
+    "title": "Phineas Ferb - Lost At Sea",
+    "series": "Phineas Ferb",
+    "pages": 52,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-lost-at-sea.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-lost-at-sea/"
+  },
+  {
+    "id": "phineas-ferb-oh-christmas-tree",
+    "title": "Phineas Ferb - Oh, Christmas Tree",
+    "series": "Phineas Ferb",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-oh-christmas-tree.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-oh-christmas-tree/"
+  },
+  {
+    "id": "phineas-ferb-perry-speaks",
+    "title": "Phineas Ferb - Perry Speaks",
+    "series": "Phineas Ferb",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-perry-speaks.jpg",
+    "remoteBase": "/DSN-books-10/books/phineas-ferb-perry-speaks/"
+  },
+  {
+    "id": "phineas-ferb-snatcher",
+    "title": "Phineas Ferb - Snatcher",
+    "series": "Phineas Ferb",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-snatcher.jpg",
+    "remoteBase": "/DSN-books-11/books/phineas-ferb-snatcher/"
+  },
+  {
+    "id": "phineas-ferb-than-you-perry",
+    "title": "Phineas Ferb - Than You Perry",
+    "series": "Phineas Ferb",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-than-you-perry.jpg",
+    "remoteBase": "/DSN-books-11/books/phineas-ferb-than-you-perry/"
+  },
+  {
+    "id": "phineas-ferb-thums-up",
+    "title": "Phineas Ferb - Thums Up",
+    "series": "Phineas Ferb",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/phineas-ferb-thums-up.jpg",
+    "remoteBase": "/DSN-books-11/books/phineas-ferb-thums-up/"
+  },
+  {
+    "id": "pinocchio",
+    "title": "Pinocchio",
+    "series": "Pinocchio",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/pinocchio.jpg",
+    "remoteBase": "/DSN-books-11/books/pinocchio/"
+  },
+  {
+    "id": "pinocchio-nose-grows",
+    "title": "Pinocchio - Nose Grows",
+    "series": "Pinocchio",
+    "pages": 34,
+    "hasAudio": false,
+    "cover": "covers/pinocchio-nose-grows.jpg",
+    "remoteBase": "/DSN-books-11/books/pinocchio-nose-grows/"
+  },
+  {
+    "id": "planes",
+    "title": "Planes",
+    "series": "Planes",
+    "pages": 62,
+    "hasAudio": true,
+    "cover": "covers/planes.jpg",
+    "remoteBase": "/DSN-books-11/books/planes/"
+  },
+  {
+    "id": "planes-dusty-flies-high",
+    "title": "Planes - Dusty Flies High",
+    "series": "Planes",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/planes-dusty-flies-high.jpg",
+    "remoteBase": "/DSN-books-11/books/planes-dusty-flies-high/"
+  },
+  {
+    "id": "planes-fire-and-rescue",
+    "title": "Planes - Fire and Rescue",
+    "series": "Planes",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/planes-fire-and-rescue.jpg",
+    "remoteBase": "/DSN-books-11/books/planes-fire-and-rescue/"
+  },
+  {
+    "id": "planes-flybys",
+    "title": "Planes - Flybys",
+    "series": "Planes",
+    "pages": 62,
+    "hasAudio": true,
+    "cover": "covers/planes-flybys.jpg",
+    "remoteBase": "/DSN-books-11/books/planes-flybys/"
+  },
+  {
+    "id": "planes-wings-around-the-globe",
+    "title": "Planes - Wings Around the Globe",
+    "series": "Planes",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/planes-wings-around-the-globe.jpg",
+    "remoteBase": "/DSN-books-11/books/planes-wings-around-the-globe/"
+  },
+  {
+    "id": "planes-fire-and-rescue-dusty-to-the-rescue",
+    "title": "Planes Fire and Rescue - Dusty to the Rescue",
+    "series": "Planes Fire and Rescue",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/planes-fire-and-rescue-dusty-to-the-rescue.jpg",
+    "remoteBase": "/DSN-books-11/books/planes-fire-and-rescue-dusty-to-the-rescue/"
+  },
+  {
+    "id": "planes-v2",
+    "title": "Planes v2",
+    "series": "Planes v2",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/planes-v2.jpg",
+    "remoteBase": "/DSN-books-11/books/planes-v2/"
+  },
+  {
+    "id": "pluto-s-mission-to-space",
+    "title": "Pluto's Mission to Space",
+    "series": "Pluto's Mission to Space",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/pluto-s-mission-to-space.jpg",
+    "remoteBase": "/DSN-books-11/books/pluto-s-mission-to-space/"
+  },
+  {
+    "id": "pocahontas-listen-to-your-heart",
+    "title": "Pocahontas - Listen to Your Heart",
+    "series": "Pocahontas",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/pocahontas-listen-to-your-heart.jpg",
+    "remoteBase": "/DSN-books-11/books/pocahontas-listen-to-your-heart/"
+  },
+  {
+    "id": "pocahontas-little-mischief",
+    "title": "Pocahontas - Little Mischief",
+    "series": "Pocahontas",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/pocahontas-little-mischief.jpg",
+    "remoteBase": "/DSN-books-11/books/pocahontas-little-mischief/"
+  },
+  {
+    "id": "presto",
+    "title": "Presto",
+    "series": "Presto",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/presto.jpg",
+    "remoteBase": "/DSN-books-11/books/presto/"
+  },
+  {
+    "id": "prince-and-the-frog",
+    "title": "Prince and the Frog",
+    "series": "Prince and the Frog",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/prince-and-the-frog.jpg",
+    "remoteBase": "/DSN-books-11/books/prince-and-the-frog/"
+  },
+  {
+    "id": "princess-and-frog-happily-ever-after",
+    "title": "Princess and Frog - Happily Ever After",
+    "series": "Princess and Frog",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/princess-and-frog-happily-ever-after.jpg",
+    "remoteBase": "/DSN-books-11/books/princess-and-frog-happily-ever-after/"
+  },
+  {
+    "id": "princess-and-frog-kiss-the-frog",
+    "title": "Princess and Frog - Kiss the Frog",
+    "series": "Princess and Frog",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/princess-and-frog-kiss-the-frog.jpg",
+    "remoteBase": "/DSN-books-11/books/princess-and-frog-kiss-the-frog/"
+  },
+  {
+    "id": "princess-and-frog-new-chef-in-town",
+    "title": "Princess and Frog - New Chef in Town",
+    "series": "Princess and Frog",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/princess-and-frog-new-chef-in-town.jpg",
+    "remoteBase": "/DSN-books-11/books/princess-and-frog-new-chef-in-town/"
+  },
+  {
+    "id": "puppy-dog-pals-arf",
+    "title": "Puppy Dog Pals - ARF",
+    "series": "Puppy Dog Pals",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/puppy-dog-pals-arf.jpg",
+    "remoteBase": "/DSN-books-11/books/puppy-dog-pals-arf/"
+  },
+  {
+    "id": "puppy-dog-pals-design-a-dog",
+    "title": "Puppy Dog Pals - Design A Dog",
+    "series": "Puppy Dog Pals",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/puppy-dog-pals-design-a-dog.jpg",
+    "remoteBase": "/DSN-books-11/books/puppy-dog-pals-design-a-dog/"
+  },
+  {
+    "id": "puppy-dog-pals-haunted-howl-oween",
+    "title": "Puppy Dog Pals - Haunted Howl-oween",
+    "series": "Puppy Dog Pals",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/puppy-dog-pals-haunted-howl-oween.jpg",
+    "remoteBase": "/DSN-books-11/books/puppy-dog-pals-haunted-howl-oween/"
+  },
+  {
+    "id": "puppy-dog-pals-hawaii-pug-o",
+    "title": "Puppy Dog Pals - Hawaii Pug-O",
+    "series": "Puppy Dog Pals",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/puppy-dog-pals-hawaii-pug-o.jpg",
+    "remoteBase": "/DSN-books-11/books/puppy-dog-pals-hawaii-pug-o/"
+  },
+  {
+    "id": "puppy-dog-pals-ice-ice-puggy",
+    "title": "Puppy Dog Pals - Ice Ice Puggy",
+    "series": "Puppy Dog Pals",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/puppy-dog-pals-ice-ice-puggy.jpg",
+    "remoteBase": "/DSN-books-11/books/puppy-dog-pals-ice-ice-puggy/"
+  },
+  {
+    "id": "rapunzel",
+    "title": "Rapunzel",
+    "series": "Rapunzel",
+    "pages": 32,
+    "hasAudio": true,
+    "cover": "covers/rapunzel.jpg",
+    "remoteBase": "/DSN-books-11/books/rapunzel/"
+  },
+  {
+    "id": "rapunzel-finds-a-friend",
+    "title": "Rapunzel - Finds a Friend",
+    "series": "Rapunzel",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/rapunzel-finds-a-friend.jpg",
+    "remoteBase": "/DSN-books-11/books/rapunzel-finds-a-friend/"
+  },
+  {
+    "id": "ratatouille",
+    "title": "Ratatouille",
+    "series": "Ratatouille",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/ratatouille.jpg",
+    "remoteBase": "/DSN-books-11/books/ratatouille/"
+  },
+  {
+    "id": "ratatouille-one-amazing-chef",
+    "title": "Ratatouille - One Amazing Chef",
+    "series": "Ratatouille",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/ratatouille-one-amazing-chef.jpg",
+    "remoteBase": "/DSN-books-11/books/ratatouille-one-amazing-chef/"
+  },
+  {
+    "id": "ratatouille-run-remy-run",
+    "title": "Ratatouille - Run Remy Run",
+    "series": "Ratatouille",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/ratatouille-run-remy-run.jpg",
+    "remoteBase": "/DSN-books-11/books/ratatouille-run-remy-run/"
+  },
+  {
+    "id": "ratatouille-sweet-dreams",
+    "title": "Ratatouille - Sweet Dreams",
+    "series": "Ratatouille",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/ratatouille-sweet-dreams.jpg",
+    "remoteBase": "/DSN-books-12/books/ratatouille-sweet-dreams/"
+  },
+  {
+    "id": "ratatouille-your-friends-the-rats",
+    "title": "Ratatouille - Your Friends the Rats",
+    "series": "Ratatouille",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/ratatouille-your-friends-the-rats.jpg",
+    "remoteBase": "/DSN-books-12/books/ratatouille-your-friends-the-rats/"
+  },
+  {
+    "id": "scamp",
+    "title": "Scamp",
+    "series": "Scamp",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/scamp.jpg",
+    "remoteBase": "/DSN-books-12/books/scamp/"
+  },
+  {
+    "id": "sleeping-beauty",
+    "title": "Sleeping Beauty",
+    "series": "Sleeping Beauty",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/sleeping-beauty.jpg",
+    "remoteBase": "/DSN-books-12/books/sleeping-beauty/"
+  },
+  {
+    "id": "sleeping-beauty-v2",
+    "title": "Sleeping Beauty v2",
+    "series": "Sleeping Beauty v2",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/sleeping-beauty-v2.jpg",
+    "remoteBase": "/DSN-books-12/books/sleeping-beauty-v2/"
+  },
+  {
+    "id": "snow-white",
+    "title": "Snow White",
+    "series": "Snow White",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/snow-white.jpg",
+    "remoteBase": "/DSN-books-12/books/snow-white/"
+  },
+  {
+    "id": "snow-white-great-jewel-hunt",
+    "title": "Snow White - Great Jewel Hunt",
+    "series": "Snow White",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/snow-white-great-jewel-hunt.jpg",
+    "remoteBase": "/DSN-books-12/books/snow-white-great-jewel-hunt/"
+  },
+  {
+    "id": "snow-white-royal-wedding",
+    "title": "Snow White - Royal Wedding",
+    "series": "Snow White",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/snow-white-royal-wedding.jpg",
+    "remoteBase": "/DSN-books-12/books/snow-white-royal-wedding/"
+  },
+  {
+    "id": "snow-white-three-giants",
+    "title": "Snow White - Three Giants",
+    "series": "Snow White",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/snow-white-three-giants.jpg",
+    "remoteBase": "/DSN-books-12/books/snow-white-three-giants/"
+  },
+  {
+    "id": "sofia-the-first",
+    "title": "Sofia the First",
+    "series": "Sofia the First",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first/"
+  },
+  {
+    "id": "sofia-the-first-curse-of-princess-ivy",
+    "title": "Sofia the First - Curse of Princess Ivy",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-curse-of-princess-ivy.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-curse-of-princess-ivy/"
+  },
+  {
+    "id": "sofia-the-first-enchanted-feast",
+    "title": "Sofia the First - Enchanted Feast",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-enchanted-feast.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-enchanted-feast/"
+  },
+  {
+    "id": "sofia-the-first-floating-palace",
+    "title": "Sofia the First - Floating Palace",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-floating-palace.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-floating-palace/"
+  },
+  {
+    "id": "sofia-the-first-holiday-in-enhancia",
+    "title": "Sofia the First - Holiday in Enhancia",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-holiday-in-enhancia.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-holiday-in-enhancia/"
+  },
+  {
+    "id": "sofia-the-first-princess-to-the-rescue",
+    "title": "Sofia the First - Princess to the Rescue",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-princess-to-the-rescue.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-princess-to-the-rescue/"
+  },
+  {
+    "id": "sofia-the-first-royal-mouse-in-the-house",
+    "title": "Sofia the First - Royal Mouse in the House",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-royal-mouse-in-the-house.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-royal-mouse-in-the-house/"
+  },
+  {
+    "id": "sofia-the-first-secret-library",
+    "title": "Sofia the First - Secret Library",
+    "series": "Sofia the First",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/sofia-the-first-secret-library.jpg",
+    "remoteBase": "/DSN-books-12/books/sofia-the-first-secret-library/"
+  },
+  {
+    "id": "tangled",
+    "title": "Tangled",
+    "series": "Tangled",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tangled.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled/"
+  },
+  {
+    "id": "tangled-a-dazling-day",
+    "title": "Tangled - A Dazling Day",
+    "series": "Tangled",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tangled-a-dazling-day.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-a-dazling-day/"
+  },
+  {
+    "id": "tangled-a-horse-and-a-hero",
+    "title": "Tangled - A Horse and A Hero",
+    "series": "Tangled",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/tangled-a-horse-and-a-hero.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-a-horse-and-a-hero/"
+  },
+  {
+    "id": "tangled-kingdom-of-color",
+    "title": "Tangled - Kingdom of Color",
+    "series": "Tangled",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/tangled-kingdom-of-color.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-kingdom-of-color/"
+  },
+  {
+    "id": "tangled-outside-my-window",
+    "title": "Tangled - Outside My Window",
+    "series": "Tangled",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/tangled-outside-my-window.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-outside-my-window/"
+  },
+  {
+    "id": "tangled-rapunzel-s-amazing-hair",
+    "title": "Tangled - Rapunzel's Amazing Hair",
+    "series": "Tangled",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/tangled-rapunzel-s-amazing-hair.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-rapunzel-s-amazing-hair/"
+  },
+  {
+    "id": "tangled-rapunzel-s-challenge",
+    "title": "Tangled - Rapunzel's Challenge",
+    "series": "Tangled",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/tangled-rapunzel-s-challenge.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-rapunzel-s-challenge/"
+  },
+  {
+    "id": "tangled-rapunzel-s-horse",
+    "title": "Tangled - Rapunzel's Horse",
+    "series": "Tangled",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tangled-rapunzel-s-horse.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-rapunzel-s-horse/"
+  },
+  {
+    "id": "tangled-wedding-day",
+    "title": "Tangled - Wedding Day",
+    "series": "Tangled",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tangled-wedding-day.jpg",
+    "remoteBase": "/DSN-books-12/books/tangled-wedding-day/"
+  },
+  {
+    "id": "the-good-dinosaurs",
+    "title": "The Good Dinosaurs",
+    "series": "The Good Dinosaurs",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/the-good-dinosaurs.jpg",
+    "remoteBase": "/DSN-books-13/books/the-good-dinosaurs/"
+  },
+  {
+    "id": "the-good-dinosaurs-a-friend-in-the-wild",
+    "title": "The Good Dinosaurs - A Friend in the Wild",
+    "series": "The Good Dinosaurs",
+    "pages": 40,
+    "hasAudio": true,
+    "cover": "covers/the-good-dinosaurs-a-friend-in-the-wild.jpg",
+    "remoteBase": "/DSN-books-13/books/the-good-dinosaurs-a-friend-in-the-wild/"
+  },
+  {
+    "id": "the-good-dinosaurs-arlo-spot",
+    "title": "The Good Dinosaurs - Arlo Spot",
+    "series": "The Good Dinosaurs",
+    "pages": 32,
+    "hasAudio": true,
+    "cover": "covers/the-good-dinosaurs-arlo-spot.jpg",
+    "remoteBase": "/DSN-books-13/books/the-good-dinosaurs-arlo-spot/"
+  },
+  {
+    "id": "the-good-dinosaurs-crash-boom-roar",
+    "title": "The Good Dinosaurs - Crash, Boom, Roar",
+    "series": "The Good Dinosaurs",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/the-good-dinosaurs-crash-boom-roar.jpg",
+    "remoteBase": "/DSN-books-13/books/the-good-dinosaurs-crash-boom-roar/"
+  },
+  {
+    "id": "the-good-dinosaurs-the-journey-home",
+    "title": "The Good Dinosaurs - The Journey Home",
+    "series": "The Good Dinosaurs",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/the-good-dinosaurs-the-journey-home.jpg",
+    "remoteBase": "/DSN-books-13/books/the-good-dinosaurs-the-journey-home/"
+  },
+  {
+    "id": "the-incredibles",
+    "title": "The Incredibles",
+    "series": "The Incredibles",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/the-incredibles.jpg",
+    "remoteBase": "/DSN-books-13/books/the-incredibles/"
+  },
+  {
+    "id": "the-incredibles-jack-jack-attack",
+    "title": "The Incredibles - Jack Jack Attack",
+    "series": "The Incredibles",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/the-incredibles-jack-jack-attack.jpg",
+    "remoteBase": "/DSN-books-13/books/the-incredibles-jack-jack-attack/"
+  },
+  {
+    "id": "the-incredibles-the-supers-save-the-day",
+    "title": "The Incredibles - The Supers Save the Day",
+    "series": "The Incredibles",
+    "pages": 32,
+    "hasAudio": true,
+    "cover": "covers/the-incredibles-the-supers-save-the-day.jpg",
+    "remoteBase": "/DSN-books-13/books/the-incredibles-the-supers-save-the-day/"
+  },
+  {
+    "id": "the-swords-in-the-stone",
+    "title": "The Swords in the Stone",
+    "series": "The Swords in the Stone",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/the-swords-in-the-stone.jpg",
+    "remoteBase": "/DSN-books-13/books/the-swords-in-the-stone/"
+  },
+  {
+    "id": "three-little-pigs",
+    "title": "Three Little Pigs",
+    "series": "Three Little Pigs",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/three-little-pigs.jpg",
+    "remoteBase": "/DSN-books-13/books/three-little-pigs/"
+  },
+  {
+    "id": "thumper-and-the-egg",
+    "title": "Thumper and the Egg",
+    "series": "Thumper and the Egg",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/thumper-and-the-egg.jpg",
+    "remoteBase": "/DSN-books-13/books/thumper-and-the-egg/"
+  },
+  {
+    "id": "tinker-bell-a-perfect-match",
+    "title": "Tinker Bell - A Perfect Match",
+    "series": "Tinker Bell",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-a-perfect-match.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-a-perfect-match/"
+  },
+  {
+    "id": "tinker-bell-about-animals",
+    "title": "Tinker Bell - About Animals",
+    "series": "Tinker Bell",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-about-animals.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-about-animals/"
+  },
+  {
+    "id": "tinker-bell-adventure-at-skull-rock",
+    "title": "Tinker Bell - Adventure at Skull Rock",
+    "series": "Tinker Bell",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-adventure-at-skull-rock.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-adventure-at-skull-rock/"
+  },
+  {
+    "id": "tinker-bell-fairy-tale",
+    "title": "Tinker Bell - Fairy Tale",
+    "series": "Tinker Bell",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-fairy-tale.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-fairy-tale/"
+  },
+  {
+    "id": "tinker-bell-new-forest-friend",
+    "title": "Tinker Bell - New Forest Friend",
+    "series": "Tinker Bell",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-new-forest-friend.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-new-forest-friend/"
+  },
+  {
+    "id": "tinker-bell-rescue-team",
+    "title": "Tinker Bell - Rescue Team",
+    "series": "Tinker Bell",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-rescue-team.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-rescue-team/"
+  },
+  {
+    "id": "tinker-bell-tiger-lily",
+    "title": "Tinker Bell - Tiger Lily",
+    "series": "Tinker Bell",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-tiger-lily.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-tiger-lily/"
+  },
+  {
+    "id": "tinker-bell-treasure-hunt",
+    "title": "Tinker Bell - Treasure Hunt",
+    "series": "Tinker Bell",
+    "pages": 50,
+    "hasAudio": true,
+    "cover": "covers/tinker-bell-treasure-hunt.jpg",
+    "remoteBase": "/DSN-books-13/books/tinker-bell-treasure-hunt/"
+  },
+  {
+    "id": "tomorrowland-haunted-ship",
+    "title": "Tomorrowland - Haunted Ship",
+    "series": "Tomorrowland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tomorrowland-haunted-ship.jpg",
+    "remoteBase": "/DSN-books-13/books/tomorrowland-haunted-ship/"
+  },
+  {
+    "id": "tomorrowland-mighty-merc",
+    "title": "Tomorrowland - Mighty Merc",
+    "series": "Tomorrowland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tomorrowland-mighty-merc.jpg",
+    "remoteBase": "/DSN-books-13/books/tomorrowland-mighty-merc/"
+  },
+  {
+    "id": "tomorrowland-save-vacation-day",
+    "title": "Tomorrowland - Save Vacation Day",
+    "series": "Tomorrowland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/tomorrowland-save-vacation-day.jpg",
+    "remoteBase": "/DSN-books-13/books/tomorrowland-save-vacation-day/"
+  },
+  {
+    "id": "tomorrowland-space-invaders",
+    "title": "Tomorrowland - Space Invaders",
+    "series": "Tomorrowland",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/tomorrowland-space-invaders.jpg",
+    "remoteBase": "/DSN-books-13/books/tomorrowland-space-invaders/"
+  },
+  {
+    "id": "tomorrowland-stellosphere",
+    "title": "Tomorrowland - Stellosphere",
+    "series": "Tomorrowland",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/tomorrowland-stellosphere.jpg",
+    "remoteBase": "/DSN-books-13/books/tomorrowland-stellosphere/"
+  },
+  {
+    "id": "toy-story",
+    "title": "Toy Story",
+    "series": "Toy Story",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story.jpg",
+    "remoteBase": "/DSN-books-13/books/toy-story/"
+  },
+  {
+    "id": "toy-story-a-new-mission",
+    "title": "Toy Story - A New Mission",
+    "series": "Toy Story",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/toy-story-a-new-mission.jpg",
+    "remoteBase": "/DSN-books-13/books/toy-story-a-new-mission/"
+  },
+  {
+    "id": "toy-story-a-spooky-adventure",
+    "title": "Toy Story - A Spooky Adventure",
+    "series": "Toy Story",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/toy-story-a-spooky-adventure.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-a-spooky-adventure/"
+  },
+  {
+    "id": "toy-story-buzz-s-space-adv",
+    "title": "Toy Story - Buzz's Space Adv",
+    "series": "Toy Story",
+    "pages": 20,
+    "hasAudio": true,
+    "cover": "covers/toy-story-buzz-s-space-adv.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-buzz-s-space-adv/"
+  },
+  {
+    "id": "toy-story-christmas-toys",
+    "title": "Toy Story - Christmas Toys",
+    "series": "Toy Story",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/toy-story-christmas-toys.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-christmas-toys/"
+  },
+  {
+    "id": "toy-story-mixed-signals",
+    "title": "Toy Story - Mixed Signals",
+    "series": "Toy Story",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/toy-story-mixed-signals.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-mixed-signals/"
+  },
+  {
+    "id": "toy-story-party-saurus-rex",
+    "title": "Toy Story - Party Saurus Rex",
+    "series": "Toy Story",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-party-saurus-rex.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-party-saurus-rex/"
+  },
+  {
+    "id": "toy-story-story-of-terror",
+    "title": "Toy Story - Story of Terror",
+    "series": "Toy Story",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-story-of-terror.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-story-of-terror/"
+  },
+  {
+    "id": "toy-story-the-bunny-surprise",
+    "title": "Toy Story - The Bunny Surprise",
+    "series": "Toy Story",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/toy-story-the-bunny-surprise.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-the-bunny-surprise/"
+  },
+  {
+    "id": "toy-story-tight-squeeze",
+    "title": "Toy Story - Tight Squeeze",
+    "series": "Toy Story",
+    "pages": 16,
+    "hasAudio": true,
+    "cover": "covers/toy-story-tight-squeeze.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-tight-squeeze/"
+  },
+  {
+    "id": "toy-story-time-forgot",
+    "title": "Toy Story - Time Forgot",
+    "series": "Toy Story",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/toy-story-time-forgot.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-time-forgot/"
+  },
+  {
+    "id": "toy-story-2",
+    "title": "Toy Story 2",
+    "series": "Toy Story",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-2.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-2/"
+  },
+  {
+    "id": "toy-story-3",
+    "title": "Toy Story 3",
+    "series": "Toy Story",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-3.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-3/"
+  },
+  {
+    "id": "toy-story-3-roaring-adventure",
+    "title": "Toy Story 3 - Roaring Adventure",
+    "series": "Toy Story 3",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-3-roaring-adventure.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-3-roaring-adventure/"
+  },
+  {
+    "id": "toy-story-3-starry-night",
+    "title": "Toy Story 3 - Starry Night",
+    "series": "Toy Story 3",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-3-starry-night.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-3-starry-night/"
+  },
+  {
+    "id": "toy-story-3-toy-trouble",
+    "title": "Toy Story 3 - Toy Trouble",
+    "series": "Toy Story 3",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/toy-story-3-toy-trouble.jpg",
+    "remoteBase": "/DSN-books-14/books/toy-story-3-toy-trouble/"
+  },
+  {
+    "id": "up",
+    "title": "UP",
+    "series": "UP",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/up.jpg",
+    "remoteBase": "/DSN-books-14/books/up/"
+  },
+  {
+    "id": "up-beware-of-dug",
+    "title": "UP - Beware of Dug",
+    "series": "UP",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/up-beware-of-dug.jpg",
+    "remoteBase": "/DSN-books-14/books/up-beware-of-dug/"
+  },
+  {
+    "id": "up-bird-best-friend",
+    "title": "Up - Bird Best Friend",
+    "series": "Up",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/up-bird-best-friend.jpg",
+    "remoteBase": "/DSN-books-14/books/up-bird-best-friend/"
+  },
+  {
+    "id": "up-watch-dug",
+    "title": "UP - Watch Dug",
+    "series": "UP",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/up-watch-dug.jpg",
+    "remoteBase": "/DSN-books-14/books/up-watch-dug/"
+  },
+  {
+    "id": "vampirina-monster-bash",
+    "title": "Vampirina - Monster Bash",
+    "series": "Vampirina",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/vampirina-monster-bash.jpg",
+    "remoteBase": "/DSN-books-14/books/vampirina-monster-bash/"
+  },
+  {
+    "id": "vampirina-scare-bnb",
+    "title": "Vampirina - Scare BnB",
+    "series": "Vampirina",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/vampirina-scare-bnb.jpg",
+    "remoteBase": "/DSN-books-14/books/vampirina-scare-bnb/"
+  },
+  {
+    "id": "vampirina-surprise-party",
+    "title": "Vampirina - Surprise Party",
+    "series": "Vampirina",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/vampirina-surprise-party.jpg",
+    "remoteBase": "/DSN-books-14/books/vampirina-surprise-party/"
+  },
+  {
+    "id": "vampirina-vampirina-in-the-fall",
+    "title": "Vampirina - Vampirina in the Fall",
+    "series": "Vampirina",
+    "pages": 36,
+    "hasAudio": true,
+    "cover": "covers/vampirina-vampirina-in-the-fall.jpg",
+    "remoteBase": "/DSN-books-14/books/vampirina-vampirina-in-the-fall/"
+  },
+  {
+    "id": "vampirina-vee-is-for-valentine",
+    "title": "Vampirina - Vee is for Valentine",
+    "series": "Vampirina",
+    "pages": 30,
+    "hasAudio": true,
+    "cover": "covers/vampirina-vee-is-for-valentine.jpg",
+    "remoteBase": "/DSN-books-14/books/vampirina-vee-is-for-valentine/"
+  },
+  {
+    "id": "wall-e",
+    "title": "Wall-E",
+    "series": "Wall-E",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/wall-e.jpg",
+    "remoteBase": "/DSN-books-14/books/wall-e/"
+  },
+  {
+    "id": "wall-e-down-to-earth",
+    "title": "Wall-E - Down to Earth",
+    "series": "Wall-E",
+    "pages": 24,
+    "hasAudio": true,
+    "cover": "covers/wall-e-down-to-earth.jpg",
+    "remoteBase": "/DSN-books-14/books/wall-e-down-to-earth/"
+  },
+  {
+    "id": "wall-e-love-at-first-beep",
+    "title": "Wall-E - Love at First Beep",
+    "series": "Wall-E",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/wall-e-love-at-first-beep.jpg",
+    "remoteBase": "/DSN-books-14/books/wall-e-love-at-first-beep/"
+  },
+  {
+    "id": "wall-e-rogue-robots",
+    "title": "Wall-E - Rogue Robots",
+    "series": "Wall-E",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/wall-e-rogue-robots.jpg",
+    "remoteBase": "/DSN-books-14/books/wall-e-rogue-robots/"
+  },
+  {
+    "id": "wild-west-cat",
+    "title": "Wild West Cat",
+    "series": "Wild West Cat",
+    "pages": 38,
+    "hasAudio": true,
+    "cover": "covers/wild-west-cat.jpg",
+    "remoteBase": "/DSN-books-14/books/wild-west-cat/"
+  },
+  {
+    "id": "wreck-it-ralph",
+    "title": "Wreck It Ralph",
+    "series": "Wreck It Ralph",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/wreck-it-ralph.jpg",
+    "remoteBase": "/DSN-books-14/books/wreck-it-ralph/"
+  },
+  {
+    "id": "wreck-it-ralph-fast-kart-slow-kart",
+    "title": "Wreck It Ralph - Fast Kart, Slow Kart",
+    "series": "Wreck It Ralph",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/wreck-it-ralph-fast-kart-slow-kart.jpg",
+    "remoteBase": "/DSN-books-14/books/wreck-it-ralph-fast-kart-slow-kart/"
+  },
+  {
+    "id": "wreck-it-ralph-game-on",
+    "title": "Wreck It Ralph - Game On",
+    "series": "Wreck It Ralph",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/wreck-it-ralph-game-on.jpg",
+    "remoteBase": "/DSN-books-14/books/wreck-it-ralph-game-on/"
+  },
+  {
+    "id": "wreck-it-ralph-one-sweet-race",
+    "title": "Wreck It Ralph - One Sweet Race",
+    "series": "Wreck It Ralph",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/wreck-it-ralph-one-sweet-race.jpg",
+    "remoteBase": "/DSN-books-14/books/wreck-it-ralph-one-sweet-race/"
+  },
+  {
+    "id": "wreck-it-ralph-sugar-rush",
+    "title": "Wreck It Ralph - Sugar Rush",
+    "series": "Wreck It Ralph",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/wreck-it-ralph-sugar-rush.jpg",
+    "remoteBase": "/DSN-books-14/books/wreck-it-ralph-sugar-rush/"
+  },
+  {
+    "id": "zootopia",
+    "title": "Zootopia",
+    "series": "Zootopia",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/zootopia.jpg",
+    "remoteBase": "/DSN-books-15/books/zootopia/"
+  },
+  {
+    "id": "zootopia-big-trouble-in-little-rodentia",
+    "title": "Zootopia - Big Trouble in Little Rodentia",
+    "series": "Zootopia",
+    "pages": 28,
+    "hasAudio": true,
+    "cover": "covers/zootopia-big-trouble-in-little-rodentia.jpg",
+    "remoteBase": "/DSN-books-15/books/zootopia-big-trouble-in-little-rodentia/"
+  },
+  {
+    "id": "zootopia-super-animals",
+    "title": "Zootopia - Super Animals",
+    "series": "Zootopia",
+    "pages": 26,
+    "hasAudio": true,
+    "cover": "covers/zootopia-super-animals.jpg",
+    "remoteBase": "/DSN-books-15/books/zootopia-super-animals/"
+  },
+  {
+    "id": "zootopia-the-big-case",
+    "title": "Zootopia - The Big Case",
+    "series": "Zootopia",
+    "pages": 34,
+    "hasAudio": true,
+    "cover": "covers/zootopia-the-big-case.jpg",
+    "remoteBase": "/DSN-books-15/books/zootopia-the-big-case/"
+  }
+]

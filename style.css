@@ -1,0 +1,338 @@
+:root {
+  --bg: #0e1015;
+  --hud-bg: rgba(18, 20, 26, 0.78);
+  --hud-border: rgba(255, 255, 255, 0.12);
+  --text: #f3f4f6;
+  --text-muted: #9ca3af;
+  --accent: #ef4444;
+  --accent-hover: #f87171;
+  --pill-active: rgba(255, 255, 255, 0.16);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: radial-gradient(circle at center, #1b1e28 0%, var(--bg) 75%);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Main viewport stage */
+#stage {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+}
+
+:fullscreen #stage,
+:-webkit-full-screen #stage {
+  padding: 4px;
+}
+
+#spread-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.65);
+  border-radius: 3px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.page-slot {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #fff;
+}
+
+/* Subtle book spine shadow in 2-page spread */
+.page-slot.spread-left::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 24px;
+  height: 100%;
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.18), transparent);
+  pointer-events: none;
+  z-index: 2;
+}
+
+.page-slot.spread-right::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.14), transparent);
+  pointer-events: none;
+  z-index: 2;
+}
+
+.page-frame {
+  border: 0;
+  display: block;
+  transform-origin: top left;
+  background: #fff;
+}
+
+/* Navigation arrows */
+.nav-arrow {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 64px;
+  border: 1px solid var(--hud-border);
+  border-radius: 12px;
+  background: var(--hud-bg);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0.72;
+  transition: opacity 0.25s ease, transform 0.2s ease, background 0.2s ease;
+  z-index: 20;
+}
+
+.nav-arrow:hover:not(:disabled) {
+  opacity: 1;
+  background: rgba(34, 38, 48, 0.9);
+  transform: translateY(-50%) scale(1.05);
+}
+
+.nav-arrow:disabled {
+  opacity: 0.15;
+  cursor: default;
+}
+
+.nav-prev {
+  left: 14px;
+}
+
+.nav-next {
+  right: 14px;
+}
+
+/* Floating minimal bottom HUD */
+#hud {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: var(--hud-bg);
+  border: 1px solid var(--hud-border);
+  border-radius: 999px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 10px 32px rgba(0, 0, 0, 0.45);
+  z-index: 30;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  max-width: calc(100vw - 24px);
+}
+
+body.hud-hidden #hud {
+  opacity: 0;
+  transform: translateX(-50%) translateY(12px);
+  pointer-events: none;
+}
+
+body.hud-hidden .nav-arrow {
+  opacity: 0.12;
+}
+
+body.hud-hidden {
+  cursor: none;
+}
+
+.hud-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.hud-divider {
+  width: 1px;
+  height: 20px;
+  background: var(--hud-border);
+  margin: 0 2px;
+}
+
+.hud-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 32px;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text);
+  font-size: 12.5px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease;
+  white-space: nowrap;
+}
+
+.hud-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.hud-link {
+  text-decoration: none;
+}
+
+.hud-btn-primary {
+  width: 34px;
+  padding: 0;
+  background: var(--accent);
+  color: #fff;
+}
+
+.hud-btn-primary:hover {
+  background: var(--accent-hover);
+}
+
+.hud-toggle.active {
+  background: var(--pill-active);
+  color: #fff;
+}
+
+.hud-toggle.is-hidden {
+  display: none;
+}
+
+.hud-segmented {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 2px;
+  border-radius: 999px;
+  gap: 2px;
+}
+
+.hud-seg-btn {
+  height: 28px;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease;
+  white-space: nowrap;
+}
+
+.hud-seg-btn:hover {
+  color: var(--text);
+}
+
+.hud-seg-btn.active {
+  background: var(--pill-active);
+  color: #fff;
+}
+
+.hud-time,
+.hud-page-label {
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.hud-nav-group {
+  gap: 8px;
+}
+
+#page-slider {
+  width: 110px;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Loading overlay */
+.loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-size: 14px;
+  color: var(--text-muted);
+  z-index: 50;
+  transition: opacity 0.25s ease;
+}
+
+.loading-overlay.done {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.spinner {
+  width: 28px;
+  height: 28px;
+  border: 3px solid rgba(255, 255, 255, 0.15);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 720px) {
+  #page-slider {
+    width: 68px;
+  }
+  .hud-toggle span {
+    display: none;
+  }
+  .nav-arrow {
+    width: 36px;
+    height: 52px;
+  }
+}
